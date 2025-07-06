@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Twitter recentGrowthHacking 精选推文</title>
+        <link>http://localhost:3000/feeds/</link>
+        <description>来自Twitter recentGrowthHacking策略的精选推文内容，包含增长黑客、营销策略、商业洞察等优质内容</description>
+        <lastBuildDate>Sun, 06 Jul 2025 06:47:19 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>NextFeed RSS Generator v1.0</generator>
+        <language>zh-CN</language>
+        <ttl>60</ttl>
+        <image>
+            <title>Twitter recentGrowthHacking 精选推文</title>
+            <url>https://abs.twimg.com/icons/apple-touch-icon-192x192.png</url>
+            <link>http://localhost:3000/feeds/</link>
+        </image>
+        <copyright>Twitter Content</copyright>
+        <atom:link href="http://localhost:3000/feeds/twitter-recentGrowthHacking.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Onat Aksaray: My #1 growth hack?
+Make friends.
+
+My #1 client acquisition hack?
+Make friends.
+
+...]]></title>
+            <link>https://x.com/OnatAksaray/status/1938937023584194914</link>
+            <guid isPermaLink="false">1938937023584194914</guid>
+            <pubDate>Sat, 28 Jun 2025 12:26:24 GMT</pubDate>
+            <description><![CDATA[My #1 growth hack?
+Make friends.
+
+My #1 client acquisition hack?
+Make friends.
+
+My #1 market research hack?
+Make friends.
+
+At the end of the day..
+
+It's all about people.]]></description>
+            <content:encoded><![CDATA[
+<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; line-height: 1.7; color: #1a1a1a; max-width: 100%; background: #ffffff; border-radius: 16px; overflow: hidden;">
+
+<!-- 推文内容区域 -->
+<div style="padding: 24px; background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);">
+  <blockquote style="margin: 0; padding: 20px 24px; border-left: 5px solid #1da1f2; background: linear-gradient(135deg, #f8f9fa 0%, #e3f2fd 100%); font-style: normal; border-radius: 0 12px 12px 0; box-shadow: 0 2px 8px rgba(29, 161, 242, 0.1);">
+    <div style="font-size: 16px; line-height: 1.6; color: #2c3e50;">
+      <div style="margin: 16px 0; padding: 0; line-height: 1.6;">My <span style="color: #1da1f2; font-weight: 600; padding: 2px 6px; background: linear-gradient(135deg, rgba(29, 161, 242, 0.1) 0%, rgba(29, 161, 242, 0.05) 100%); border-radius: 12px; border: 1px solid rgba(29, 161, 242, 0.2);">#1</span> growth hack?<br style="margin: 8px 0;"/>Make friends.</div><div style="margin: 16px 0; padding: 0; line-height: 1.6;">My <span style="color: #1da1f2; font-weight: 600; padding: 2px 6px; background: linear-gradient(135deg, rgba(29, 161, 242, 0.1) 0%, rgba(29, 161, 242, 0.05) 100%); border-radius: 12px; border: 1px solid rgba(29, 161, 242, 0.2);">#1</span> client acquisition hack?<br style="margin: 8px 0;"/>Make friends.</div><div style="margin: 16px 0; padding: 0; line-height: 1.6;">My <span style="color: #1da1f2; font-weight: 600; padding: 2px 6px; background: linear-gradient(135deg, rgba(29, 161, 242, 0.1) 0%, rgba(29, 161, 242, 0.05) 100%); border-radius: 12px; border: 1px solid rgba(29, 161, 242, 0.2);">#1</span> market research hack?<br style="margin: 8px 0;"/>Make friends.</div><div style="margin: 16px 0; padding: 0; line-height: 1.6;">At the end of the day..</div><div style="margin: 16px 0; padding: 0; line-height: 1.6;">It&<span style="color: #1da1f2; font-weight: 600; padding: 2px 6px; background: linear-gradient(135deg, rgba(29, 161, 242, 0.1) 0%, rgba(29, 161, 242, 0.05) 100%); border-radius: 12px; border: 1px solid rgba(29, 161, 242, 0.2);">#039</span>;s all about people.</div>
+    </div>
+  </blockquote>
+</div>
+
+<!-- 媒体内容区域 -->
+
+
+<!-- 作者和互动信息区域 -->
+<div style="margin-top: 24px; padding: 20px 24px; background: linear-gradient(135deg, #f1f3f4 0%, #e9ecef 100%); border-top: 1px solid #dee2e6;">
+
+  <!-- 作者信息 -->
+  <div style="display: flex; align-items: center; margin-bottom: 16px; padding: 12px; background: #ffffff; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+    <img src="https://pbs.twimg.com/profile_images/1816068425514381312/N9kyKtFq_normal.jpg" alt="Onat Aksaray的头像" style="width: 48px; height: 48px; border-radius: 50%; margin-right: 12px; border: 2px solid #1da1f2; box-shadow: 0 2px 8px rgba(29, 161, 242, 0.2);"/>
+    <div style="flex: 1;">
+      <div style="color: #14171a; font-size: 18px; font-weight: 600; margin-bottom: 2px;">Onat Aksaray</div>
+      <div style="color: #657786; font-size: 15px;">@OnatAksaray</div>
+    </div>
+  </div>
+
+  <!-- 互动数据 -->
+  <div style="display: flex; flex-wrap: wrap; gap: 16px; margin: 16px 0; padding: 16px; background: #ffffff; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+    <div style="display: flex; align-items: center; padding: 8px 12px; background: linear-gradient(135deg, #ff6b6b 0%, #ee5a52 100%); color: white; border-radius: 20px; font-size: 14px; font-weight: 500;">
+      <span style="margin-right: 6px;">❤️</span>
+      <span>115 点赞</span>
+    </div>
+    <div style="display: flex; align-items: center; padding: 8px 12px; background: linear-gradient(135deg, #4ecdc4 0%, #44a08d 100%); color: white; border-radius: 20px; font-size: 14px; font-weight: 500;">
+      <span style="margin-right: 6px;">🔄</span>
+      <span>1 转发</span>
+    </div>
+    <div style="display: flex; align-items: center; padding: 8px 12px; background: linear-gradient(135deg, #45b7d1 0%, #96c93d 100%); color: white; border-radius: 20px; font-size: 14px; font-weight: 500;">
+      <span style="margin-right: 6px;">💬</span>
+      <span>71 回复</span>
+    </div>
+    
+    <div style="display: flex; align-items: center; padding: 8px 12px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color: white; border-radius: 20px; font-size: 14px; font-weight: 500;">
+      <span style="margin-right: 6px;">👁️</span>
+      <span>3,343 浏览</span>
+    </div>
+  </div>
+
+  <!-- 链接和时间信息 -->
+  <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 16px; margin-top: 16px; padding: 16px; background: #ffffff; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+    <a href="https://x.com/OnatAksaray/status/1938937023584194914" target="_blank" style="display: inline-flex; align-items: center; color: #ffffff; background: linear-gradient(135deg, #1da1f2 0%, #0d8bd9 100%); text-decoration: none; font-weight: 600; padding: 10px 16px; border-radius: 25px; font-size: 14px; box-shadow: 0 4px 12px rgba(29, 161, 242, 0.3); transition: transform 0.2s ease;">
+      <span style="margin-right: 8px;">🔗</span>
+      <span>查看原推文</span>
+    </a>
+    <div style="color: #657786; font-size: 14px; padding: 8px 12px; background: #f8f9fa; border-radius: 20px;">
+      <span style="margin-right: 6px;">🕒</span>
+      <span>发布时间: 2025/6/28 20:26:24</span>
+    </div>
+  </div>
+</div>
+
+</div>
+        ]]></content:encoded>
+            <author>OnatAksaray@twitter.com (Onat Aksaray)</author>
+            <enclosure url="https://pbs.twimg.com/profile_images/1816068425514381312/N9kyKtFq_normal.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Similarweb: Google's AI domains are thriving.
+
+Month-over-month traffic growth in May:
+
+@Goo...]]></title>
+            <link>https://x.com/Similarweb/status/1938166285113717216</link>
+            <guid isPermaLink="false">1938166285113717216</guid>
+            <pubDate>Thu, 26 Jun 2025 09:23:46 GMT</pubDate>
+            <description><![CDATA[Google's AI domains are thriving.
+
+Month-over-month traffic growth in May:
+
+@GoogleDeepMind: 4,258,300 → 11,189,832 (+162.78%)
+@GoogleLabs: 9,796,459 → 19,792,943 (+102.04%)
+@GoogleAI: 1,349,027 → 2,042,165 (+51.38%)
+@NotebookLM: 48,340,200 → 64,906,295 (+34.27%)
+@GeminiApp: 409,432,013 → 527,738,672 (+28.90%)]]></description>
+            <content:encoded><![CDATA[
+<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; line-height: 1.7; color: #1a1a1a; max-width: 100%; background: #ffffff; border-radius: 16px; overflow: hidden;">
+
+<!-- 推文内容区域 -->
+<div style="padding: 24px; background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);">
+  <blockquote style="margin: 0; padding: 20px 24px; border-left: 5px solid #1da1f2; background: linear-gradient(135deg, #f8f9fa 0%, #e3f2fd 100%); font-style: normal; border-radius: 0 12px 12px 0; box-shadow: 0 2px 8px rgba(29, 161, 242, 0.1);">
+    <div style="font-size: 16px; line-height: 1.6; color: #2c3e50;">
+      <div style="margin: 16px 0; padding: 0; line-height: 1.6;">Google&<span style="color: #1da1f2; font-weight: 600; padding: 2px 6px; background: linear-gradient(135deg, rgba(29, 161, 242, 0.1) 0%, rgba(29, 161, 242, 0.05) 100%); border-radius: 12px; border: 1px solid rgba(29, 161, 242, 0.2);">#039</span>;s AI domains are thriving.</div><div style="margin: 16px 0; padding: 0; line-height: 1.6;">Month-over-month traffic growth in May:</div><div style="margin: 16px 0; padding: 0; line-height: 1.6;"><a href="https://twitter.com/GoogleDeepMind" target="_blank" style="color: <span style="color: #1da1f2; font-weight: 600; padding: 2px 6px; background: linear-gradient(135deg, rgba(29, 161, 242, 0.1) 0%, rgba(29, 161, 242, 0.05) 100%); border-radius: 12px; border: 1px solid rgba(29, 161, 242, 0.2);">#1da1f2</span>; text-decoration: none; font-weight: 600; padding: 2px 6px; background: rgba(29, 161, 242, 0.1); border-radius: 12px;">@GoogleDeepMind</a>: 4,258,300 → 11,189,832 (+162.78%)<br style="margin: 8px 0;"/><a href="https://twitter.com/GoogleLabs" target="_blank" style="color: <span style="color: #1da1f2; font-weight: 600; padding: 2px 6px; background: linear-gradient(135deg, rgba(29, 161, 242, 0.1) 0%, rgba(29, 161, 242, 0.05) 100%); border-radius: 12px; border: 1px solid rgba(29, 161, 242, 0.2);">#1da1f2</span>; text-decoration: none; font-weight: 600; padding: 2px 6px; background: rgba(29, 161, 242, 0.1); border-radius: 12px;">@GoogleLabs</a>: 9,796,459 → 19,792,943 (+102.04%)<br style="margin: 8px 0;"/><a href="https://twitter.com/GoogleAI" target="_blank" style="color: <span style="color: #1da1f2; font-weight: 600; padding: 2px 6px; background: linear-gradient(135deg, rgba(29, 161, 242, 0.1) 0%, rgba(29, 161, 242, 0.05) 100%); border-radius: 12px; border: 1px solid rgba(29, 161, 242, 0.2);">#1da1f2</span>; text-decoration: none; font-weight: 600; padding: 2px 6px; background: rgba(29, 161, 242, 0.1); border-radius: 12px;">@GoogleAI</a>: 1,349,027 → 2,042,165 (+51.38%)<br style="margin: 8px 0;"/><a href="https://twitter.com/NotebookLM" target="_blank" style="color: <span style="color: #1da1f2; font-weight: 600; padding: 2px 6px; background: linear-gradient(135deg, rgba(29, 161, 242, 0.1) 0%, rgba(29, 161, 242, 0.05) 100%); border-radius: 12px; border: 1px solid rgba(29, 161, 242, 0.2);">#1da1f2</span>; text-decoration: none; font-weight: 600; padding: 2px 6px; background: rgba(29, 161, 242, 0.1); border-radius: 12px;">@NotebookLM</a>: 48,340,200 → 64,906,295 (+34.27%)<br style="margin: 8px 0;"/><a href="https://twitter.com/GeminiApp" target="_blank" style="color: <span style="color: #1da1f2; font-weight: 600; padding: 2px 6px; background: linear-gradient(135deg, rgba(29, 161, 242, 0.1) 0%, rgba(29, 161, 242, 0.05) 100%); border-radius: 12px; border: 1px solid rgba(29, 161, 242, 0.2);">#1da1f2</span>; text-decoration: none; font-weight: 600; padding: 2px 6px; background: rgba(29, 161, 242, 0.1); border-radius: 12px;">@GeminiApp</a>: 409,432,013 → 527,738,672 (+28.90%)</div>
+    </div>
+  </blockquote>
+</div>
+
+<!-- 媒体内容区域 -->
+
+              <div style="margin: 20px 0; padding: 15px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 12px; border: 1px solid #dee2e6;">
+                <div style="text-align: center; margin-bottom: 10px;">
+                  <img src="https://pbs.twimg.com/media/GuW_jKyXIAA_WYO.png"
+                       alt="推文图片 1"
+                       style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); transition: transform 0.2s ease;"/>
+                </div>
+                <div style="text-align: center; padding: 8px 0;">
+                  <a href="https://twitter.com/Similarweb/status/1938166285113717216/photo/1" target="_blank"
+                     style="color: #1da1f2; text-decoration: none; font-weight: 500; font-size: 14px; padding: 6px 12px; background: rgba(29, 161, 242, 0.1); border-radius: 20px; display: inline-block;">
+                    📷 查看高清原图
+                  </a>
+                </div>
+              </div>
+
+<!-- 作者和互动信息区域 -->
+<div style="margin-top: 24px; padding: 20px 24px; background: linear-gradient(135deg, #f1f3f4 0%, #e9ecef 100%); border-top: 1px solid #dee2e6;">
+
+  <!-- 作者信息 -->
+  <div style="display: flex; align-items: center; margin-bottom: 16px; padding: 12px; background: #ffffff; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+    <img src="https://pbs.twimg.com/profile_images/1796148234060021760/iq5AA2vD_normal.jpg" alt="Similarweb的头像" style="width: 48px; height: 48px; border-radius: 50%; margin-right: 12px; border: 2px solid #1da1f2; box-shadow: 0 2px 8px rgba(29, 161, 242, 0.2);"/>
+    <div style="flex: 1;">
+      <div style="color: #14171a; font-size: 18px; font-weight: 600; margin-bottom: 2px;">Similarweb</div>
+      <div style="color: #657786; font-size: 15px;">@Similarweb</div>
+    </div>
+  </div>
+
+  <!-- 互动数据 -->
+  <div style="display: flex; flex-wrap: wrap; gap: 16px; margin: 16px 0; padding: 16px; background: #ffffff; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+    <div style="display: flex; align-items: center; padding: 8px 12px; background: linear-gradient(135deg, #ff6b6b 0%, #ee5a52 100%); color: white; border-radius: 20px; font-size: 14px; font-weight: 500;">
+      <span style="margin-right: 6px;">❤️</span>
+      <span>661 点赞</span>
+    </div>
+    <div style="display: flex; align-items: center; padding: 8px 12px; background: linear-gradient(135deg, #4ecdc4 0%, #44a08d 100%); color: white; border-radius: 20px; font-size: 14px; font-weight: 500;">
+      <span style="margin-right: 6px;">🔄</span>
+      <span>100 转发</span>
+    </div>
+    <div style="display: flex; align-items: center; padding: 8px 12px; background: linear-gradient(135deg, #45b7d1 0%, #96c93d 100%); color: white; border-radius: 20px; font-size: 14px; font-weight: 500;">
+      <span style="margin-right: 6px;">💬</span>
+      <span>22 回复</span>
+    </div>
+    
+    <div style="display: flex; align-items: center; padding: 8px 12px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color: white; border-radius: 20px; font-size: 14px; font-weight: 500;">
+      <span style="margin-right: 6px;">👁️</span>
+      <span>213,104 浏览</span>
+    </div>
+  </div>
+
+  <!-- 链接和时间信息 -->
+  <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 16px; margin-top: 16px; padding: 16px; background: #ffffff; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+    <a href="https://x.com/Similarweb/status/1938166285113717216" target="_blank" style="display: inline-flex; align-items: center; color: #ffffff; background: linear-gradient(135deg, #1da1f2 0%, #0d8bd9 100%); text-decoration: none; font-weight: 600; padding: 10px 16px; border-radius: 25px; font-size: 14px; box-shadow: 0 4px 12px rgba(29, 161, 242, 0.3); transition: transform 0.2s ease;">
+      <span style="margin-right: 8px;">🔗</span>
+      <span>查看原推文</span>
+    </a>
+    <div style="color: #657786; font-size: 14px; padding: 8px 12px; background: #f8f9fa; border-radius: 20px;">
+      <span style="margin-right: 6px;">🕒</span>
+      <span>发布时间: 2025/6/26 17:23:46</span>
+    </div>
+  </div>
+</div>
+
+</div>
+        ]]></content:encoded>
+            <author>Similarweb@twitter.com (Similarweb)</author>
+            <enclosure url="https://pbs.twimg.com/profile_images/1796148234060021760/iq5AA2vD_normal.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Matt Diggity: I spent 6 months testing AI SEO tactics for clients.
+
+One saw 2,300% AI traffic ...]]></title>
+            <link>https://x.com/mattdiggityseo/status/1938165078152646703</link>
+            <guid isPermaLink="false">1938165078152646703</guid>
+            <pubDate>Thu, 26 Jun 2025 09:18:58 GMT</pubDate>
+            <description><![CDATA[I spent 6 months testing AI SEO tactics for clients.
+
+One saw 2,300% AI traffic growth and now appears in 90+ AI overviews (vs zero before).
+
+Here's the exact 4-step framework we used:
+
+1. Finding AI Opportunities:
+
+• Use Surfer AI Tracker/Ahrefs Brand Radar to see how often AI platforms mention your brand vs. your competitors
+• Plug in your brand and theirs, then filter for AI keywords they’re winning that you’re not
+• Those are the exact topics you need to target and steal]]></description>
+            <content:encoded><![CDATA[
+<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; line-height: 1.7; color: #1a1a1a; max-width: 100%; background: #ffffff; border-radius: 16px; overflow: hidden;">
+
+<!-- 推文内容区域 -->
+<div style="padding: 24px; background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);">
+  <blockquote style="margin: 0; padding: 20px 24px; border-left: 5px solid #1da1f2; background: linear-gradient(135deg, #f8f9fa 0%, #e3f2fd 100%); font-style: normal; border-radius: 0 12px 12px 0; box-shadow: 0 2px 8px rgba(29, 161, 242, 0.1);">
+    <div style="font-size: 16px; line-height: 1.6; color: #2c3e50;">
+      <div style="margin: 16px 0; padding: 0; line-height: 1.6;">I spent 6 months testing AI SEO tactics for clients.</div><div style="margin: 16px 0; padding: 0; line-height: 1.6;">One saw 2,300% AI traffic growth and now appears in 90+ AI overviews (vs zero before).</div><div style="margin: 16px 0; padding: 0; line-height: 1.6;">Here&<span style="color: #1da1f2; font-weight: 600; padding: 2px 6px; background: linear-gradient(135deg, rgba(29, 161, 242, 0.1) 0%, rgba(29, 161, 242, 0.05) 100%); border-radius: 12px; border: 1px solid rgba(29, 161, 242, 0.2);">#039</span>;s the exact 4-step framework we used:</div><div style="margin: 16px 0; padding: 0; line-height: 1.6;">1. Finding AI Opportunities:</div><div style="margin: 16px 0; padding: 0; line-height: 1.6;">• Use Surfer AI Tracker/Ahrefs Brand Radar to see how often AI platforms mention your brand vs. your competitors<br style="margin: 8px 0;"/>• Plug in your brand and theirs, then filter for AI keywords they’re winning that you’re not<br style="margin: 8px 0;"/>• Those are the exact topics you need to target and steal</div>
+    </div>
+  </blockquote>
+</div>
+
+<!-- 媒体内容区域 -->
+
+
+<!-- 作者和互动信息区域 -->
+<div style="margin-top: 24px; padding: 20px 24px; background: linear-gradient(135deg, #f1f3f4 0%, #e9ecef 100%); border-top: 1px solid #dee2e6;">
+
+  <!-- 作者信息 -->
+  <div style="display: flex; align-items: center; margin-bottom: 16px; padding: 12px; background: #ffffff; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+    <img src="https://pbs.twimg.com/profile_images/683939437521158144/13UvAMzZ_normal.jpg" alt="Matt Diggity的头像" style="width: 48px; height: 48px; border-radius: 50%; margin-right: 12px; border: 2px solid #1da1f2; box-shadow: 0 2px 8px rgba(29, 161, 242, 0.2);"/>
+    <div style="flex: 1;">
+      <div style="color: #14171a; font-size: 18px; font-weight: 600; margin-bottom: 2px;">Matt Diggity</div>
+      <div style="color: #657786; font-size: 15px;">@mattdiggityseo</div>
+    </div>
+  </div>
+
+  <!-- 互动数据 -->
+  <div style="display: flex; flex-wrap: wrap; gap: 16px; margin: 16px 0; padding: 16px; background: #ffffff; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+    <div style="display: flex; align-items: center; padding: 8px 12px; background: linear-gradient(135deg, #ff6b6b 0%, #ee5a52 100%); color: white; border-radius: 20px; font-size: 14px; font-weight: 500;">
+      <span style="margin-right: 6px;">❤️</span>
+      <span>99 点赞</span>
+    </div>
+    <div style="display: flex; align-items: center; padding: 8px 12px; background: linear-gradient(135deg, #4ecdc4 0%, #44a08d 100%); color: white; border-radius: 20px; font-size: 14px; font-weight: 500;">
+      <span style="margin-right: 6px;">🔄</span>
+      <span>9 转发</span>
+    </div>
+    <div style="display: flex; align-items: center; padding: 8px 12px; background: linear-gradient(135deg, #45b7d1 0%, #96c93d 100%); color: white; border-radius: 20px; font-size: 14px; font-weight: 500;">
+      <span style="margin-right: 6px;">💬</span>
+      <span>5 回复</span>
+    </div>
+    
+    <div style="display: flex; align-items: center; padding: 8px 12px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color: white; border-radius: 20px; font-size: 14px; font-weight: 500;">
+      <span style="margin-right: 6px;">👁️</span>
+      <span>9,094 浏览</span>
+    </div>
+  </div>
+
+  <!-- 链接和时间信息 -->
+  <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 16px; margin-top: 16px; padding: 16px; background: #ffffff; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+    <a href="https://x.com/mattdiggityseo/status/1938165078152646703" target="_blank" style="display: inline-flex; align-items: center; color: #ffffff; background: linear-gradient(135deg, #1da1f2 0%, #0d8bd9 100%); text-decoration: none; font-weight: 600; padding: 10px 16px; border-radius: 25px; font-size: 14px; box-shadow: 0 4px 12px rgba(29, 161, 242, 0.3); transition: transform 0.2s ease;">
+      <span style="margin-right: 8px;">🔗</span>
+      <span>查看原推文</span>
+    </a>
+    <div style="color: #657786; font-size: 14px; padding: 8px 12px; background: #f8f9fa; border-radius: 20px;">
+      <span style="margin-right: 6px;">🕒</span>
+      <span>发布时间: 2025/6/26 17:18:58</span>
+    </div>
+  </div>
+</div>
+
+</div>
+        ]]></content:encoded>
+            <author>mattdiggityseo@twitter.com (Matt Diggity)</author>
+            <enclosure url="https://pbs.twimg.com/profile_images/683939437521158144/13UvAMzZ_normal.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chris Hoffmann: We acquired a $27M, 4th generation plumbing & HVAC service company.
+
+However, fo...]]></title>
+            <link>https://x.com/STLChrisH/status/1937221177337946466</link>
+            <guid isPermaLink="false">1937221177337946466</guid>
+            <pubDate>Mon, 23 Jun 2025 18:48:15 GMT</pubDate>
+            <description><![CDATA[We acquired a $27M, 4th generation plumbing & HVAC service company.
+
+However, for my first 7 years as CEO, I held this belief:
+
+Organic growth > Growth via acquisition.
+
+Between 2016 and 2022, we scaled Hoffmann Brothers from $9M → $80M organically.
+
+We focused on:
+
+✅ Building a proven operations playbook
+✅ Driving consistent results with that playbook
+✅ Developing leadership talent deep enough to scale or integrate
+
+That foundation made us ready to acquire--not just eager to.
+
+Too many entrepreneurs in home services get distracted by:
+
+❌ “We’ve acquired X companies”
+❌ “We’re in X markets”
+❌ “We’re rolling up the industry”
+
+What they really need?
+
+To master the business they already own.
+
+We resisted the acquisition temptation early.
+And that made us far more capable now.]]></description>
+            <content:encoded><![CDATA[
+<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; line-height: 1.7; color: #1a1a1a; max-width: 100%; background: #ffffff; border-radius: 16px; overflow: hidden;">
+
+<!-- 推文内容区域 -->
+<div style="padding: 24px; background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);">
+  <blockquote style="margin: 0; padding: 20px 24px; border-left: 5px solid #1da1f2; background: linear-gradient(135deg, #f8f9fa 0%, #e3f2fd 100%); font-style: normal; border-radius: 0 12px 12px 0; box-shadow: 0 2px 8px rgba(29, 161, 242, 0.1);">
+    <div style="font-size: 16px; line-height: 1.6; color: #2c3e50;">
+      <div style="margin: 16px 0; padding: 0; line-height: 1.6;">We acquired a $27M, 4th generation plumbing &amp; HVAC service company.</div><div style="margin: 16px 0; padding: 0; line-height: 1.6;">However, for my first 7 years as CEO, I held this belief:</div><div style="margin: 16px 0; padding: 0; line-height: 1.6;">Organic growth &gt; Growth via acquisition.</div><div style="margin: 16px 0; padding: 0; line-height: 1.6;">Between 2016 and 2022, we scaled Hoffmann Brothers from $9M → $80M organically.</div><div style="margin: 16px 0; padding: 0; line-height: 1.6;">We focused on:</div><div style="margin: 16px 0; padding: 0; line-height: 1.6;">✅ Building a proven operations playbook<br style="margin: 8px 0;"/>✅ Driving consistent results with that playbook<br style="margin: 8px 0;"/>✅ Developing leadership talent deep enough to scale or integrate</div><div style="margin: 16px 0; padding: 0; line-height: 1.6;">That foundation made us ready to acquire--not just eager to.</div><div style="margin: 16px 0; padding: 0; line-height: 1.6;">Too many entrepreneurs in home services get distracted by:</div><div style="margin: 16px 0; padding: 0; line-height: 1.6;">❌ “We’ve acquired X companies”<br style="margin: 8px 0;"/>❌ “We’re in X markets”<br style="margin: 8px 0;"/>❌ “We’re rolling up the industry”</div><div style="margin: 16px 0; padding: 0; line-height: 1.6;">What they really need?</div><div style="margin: 16px 0; padding: 0; line-height: 1.6;">To master the business they already own.</div><div style="margin: 16px 0; padding: 0; line-height: 1.6;">We resisted the acquisition temptation early.<br style="margin: 8px 0;"/>And that made us far more capable now.</div>
+    </div>
+  </blockquote>
+</div>
+
+<!-- 媒体内容区域 -->
+
+
+<!-- 作者和互动信息区域 -->
+<div style="margin-top: 24px; padding: 20px 24px; background: linear-gradient(135deg, #f1f3f4 0%, #e9ecef 100%); border-top: 1px solid #dee2e6;">
+
+  <!-- 作者信息 -->
+  <div style="display: flex; align-items: center; margin-bottom: 16px; padding: 12px; background: #ffffff; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+    <img src="https://pbs.twimg.com/profile_images/1938061814056509440/otaUpVuH_normal.jpg" alt="Chris Hoffmann的头像" style="width: 48px; height: 48px; border-radius: 50%; margin-right: 12px; border: 2px solid #1da1f2; box-shadow: 0 2px 8px rgba(29, 161, 242, 0.2);"/>
+    <div style="flex: 1;">
+      <div style="color: #14171a; font-size: 18px; font-weight: 600; margin-bottom: 2px;">Chris Hoffmann</div>
+      <div style="color: #657786; font-size: 15px;">@STLChrisH</div>
+    </div>
+  </div>
+
+  <!-- 互动数据 -->
+  <div style="display: flex; flex-wrap: wrap; gap: 16px; margin: 16px 0; padding: 16px; background: #ffffff; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+    <div style="display: flex; align-items: center; padding: 8px 12px; background: linear-gradient(135deg, #ff6b6b 0%, #ee5a52 100%); color: white; border-radius: 20px; font-size: 14px; font-weight: 500;">
+      <span style="margin-right: 6px;">❤️</span>
+      <span>62 点赞</span>
+    </div>
+    <div style="display: flex; align-items: center; padding: 8px 12px; background: linear-gradient(135deg, #4ecdc4 0%, #44a08d 100%); color: white; border-radius: 20px; font-size: 14px; font-weight: 500;">
+      <span style="margin-right: 6px;">🔄</span>
+      <span>3 转发</span>
+    </div>
+    <div style="display: flex; align-items: center; padding: 8px 12px; background: linear-gradient(135deg, #45b7d1 0%, #96c93d 100%); color: white; border-radius: 20px; font-size: 14px; font-weight: 500;">
+      <span style="margin-right: 6px;">💬</span>
+      <span>6 回复</span>
+    </div>
+    
+    <div style="display: flex; align-items: center; padding: 8px 12px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color: white; border-radius: 20px; font-size: 14px; font-weight: 500;">
+      <span style="margin-right: 6px;">👁️</span>
+      <span>8,455 浏览</span>
+    </div>
+  </div>
+
+  <!-- 链接和时间信息 -->
+  <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 16px; margin-top: 16px; padding: 16px; background: #ffffff; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+    <a href="https://x.com/STLChrisH/status/1937221177337946466" target="_blank" style="display: inline-flex; align-items: center; color: #ffffff; background: linear-gradient(135deg, #1da1f2 0%, #0d8bd9 100%); text-decoration: none; font-weight: 600; padding: 10px 16px; border-radius: 25px; font-size: 14px; box-shadow: 0 4px 12px rgba(29, 161, 242, 0.3); transition: transform 0.2s ease;">
+      <span style="margin-right: 8px;">🔗</span>
+      <span>查看原推文</span>
+    </a>
+    <div style="color: #657786; font-size: 14px; padding: 8px 12px; background: #f8f9fa; border-radius: 20px;">
+      <span style="margin-right: 6px;">🕒</span>
+      <span>发布时间: 2025/6/24 02:48:15</span>
+    </div>
+  </div>
+</div>
+
+</div>
+        ]]></content:encoded>
+            <author>STLChrisH@twitter.com (Chris Hoffmann)</author>
+            <enclosure url="https://pbs.twimg.com/profile_images/1938061814056509440/otaUpVuH_normal.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cloudflare Radar: #Internet traffic in #Iran has been recovering since Saturday, though recovery a...]]></title>
+            <link>https://x.com/CloudflareRadar/status/1937215293622804760</link>
+            <guid isPermaLink="false">1937215293622804760</guid>
+            <pubDate>Mon, 23 Jun 2025 18:24:52 GMT</pubDate>
+            <description><![CDATA[#Internet traffic in #Iran has been recovering since Saturday, though recovery appears to be primarily on fixed infrastructure providers. 
+Fixed providers have seen strong traffic growth, while major mobile providers @www_mci_ir  and @irancell remain largely offline. https://t.co/mDHNBXUMAs]]></description>
+            <content:encoded><![CDATA[
+<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; line-height: 1.7; color: #1a1a1a; max-width: 100%; background: #ffffff; border-radius: 16px; overflow: hidden;">
+
+<!-- 推文内容区域 -->
+<div style="padding: 24px; background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);">
+  <blockquote style="margin: 0; padding: 20px 24px; border-left: 5px solid #1da1f2; background: linear-gradient(135deg, #f8f9fa 0%, #e3f2fd 100%); font-style: normal; border-radius: 0 12px 12px 0; box-shadow: 0 2px 8px rgba(29, 161, 242, 0.1);">
+    <div style="font-size: 16px; line-height: 1.6; color: #2c3e50;">
+      <span style="color: #1da1f2; font-weight: 600; padding: 2px 6px; background: linear-gradient(135deg, rgba(29, 161, 242, 0.1) 0%, rgba(29, 161, 242, 0.05) 100%); border-radius: 12px; border: 1px solid rgba(29, 161, 242, 0.2);">#Internet</span> traffic in <span style="color: #1da1f2; font-weight: 600; padding: 2px 6px; background: linear-gradient(135deg, rgba(29, 161, 242, 0.1) 0%, rgba(29, 161, 242, 0.05) 100%); border-radius: 12px; border: 1px solid rgba(29, 161, 242, 0.2);">#Iran</span> has been recovering since Saturday, though recovery appears to be primarily on fixed infrastructure providers. <br style="margin: 8px 0;"/>Fixed providers have seen strong traffic growth, while major mobile providers <a href="https://twitter.com/www_mci_ir" target="_blank" style="color: <span style="color: #1da1f2; font-weight: 600; padding: 2px 6px; background: linear-gradient(135deg, rgba(29, 161, 242, 0.1) 0%, rgba(29, 161, 242, 0.05) 100%); border-radius: 12px; border: 1px solid rgba(29, 161, 242, 0.2);">#1da1f2</span>; text-decoration: none; font-weight: 600; padding: 2px 6px; background: rgba(29, 161, 242, 0.1); border-radius: 12px;">@www_mci_ir</a>  and <a href="https://twitter.com/irancell" target="_blank" style="color: <span style="color: #1da1f2; font-weight: 600; padding: 2px 6px; background: linear-gradient(135deg, rgba(29, 161, 242, 0.1) 0%, rgba(29, 161, 242, 0.05) 100%); border-radius: 12px; border: 1px solid rgba(29, 161, 242, 0.2);">#1da1f2</span>; text-decoration: none; font-weight: 600; padding: 2px 6px; background: rgba(29, 161, 242, 0.1); border-radius: 12px;">@irancell</a> remain largely offline. <a href="https://t.co/mDHNBXUMAs" target="_blank" style="color: <span style="color: #1da1f2; font-weight: 600; padding: 2px 6px; background: linear-gradient(135deg, rgba(29, 161, 242, 0.1) 0%, rgba(29, 161, 242, 0.05) 100%); border-radius: 12px; border: 1px solid rgba(29, 161, 242, 0.2);">#1da1f2</span>; text-decoration: none; font-weight: 500; padding: 2px 6px; background: rgba(29, 161, 242, 0.1); border-radius: 4px; border-bottom: 2px solid <span style="color: #1da1f2; font-weight: 600; padding: 2px 6px; background: linear-gradient(135deg, rgba(29, 161, 242, 0.1) 0%, rgba(29, 161, 242, 0.05) 100%); border-radius: 12px; border: 1px solid rgba(29, 161, 242, 0.2);">#1da1f2</span>;">🔗 链接</a>
+    </div>
+  </blockquote>
+</div>
+
+<!-- 媒体内容区域 -->
+
+              <div style="margin: 20px 0; padding: 15px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 12px; border: 1px solid #dee2e6;">
+                <div style="text-align: center; margin-bottom: 10px;">
+                  <img src="https://pbs.twimg.com/media/GuJe9ynWwAA9qeb.jpg"
+                       alt="推文图片 1"
+                       style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); transition: transform 0.2s ease;"/>
+                </div>
+                <div style="text-align: center; padding: 8px 0;">
+                  <a href="https://twitter.com/CloudflareRadar/status/1937215293622804760/photo/1" target="_blank"
+                     style="color: #1da1f2; text-decoration: none; font-weight: 500; font-size: 14px; padding: 6px 12px; background: rgba(29, 161, 242, 0.1); border-radius: 20px; display: inline-block;">
+                    📷 查看高清原图
+                  </a>
+                </div>
+              </div>
+              <div style="margin: 20px 0; padding: 15px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 12px; border: 1px solid #dee2e6;">
+                <div style="text-align: center; margin-bottom: 10px;">
+                  <img src="https://pbs.twimg.com/media/GuJe9yqX0AAFxHg.jpg"
+                       alt="推文图片 2"
+                       style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); transition: transform 0.2s ease;"/>
+                </div>
+                <div style="text-align: center; padding: 8px 0;">
+                  <a href="https://twitter.com/CloudflareRadar/status/1937215293622804760/photo/1" target="_blank"
+                     style="color: #1da1f2; text-decoration: none; font-weight: 500; font-size: 14px; padding: 6px 12px; background: rgba(29, 161, 242, 0.1); border-radius: 20px; display: inline-block;">
+                    📷 查看高清原图
+                  </a>
+                </div>
+              </div>
+              <div style="margin: 20px 0; padding: 15px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 12px; border: 1px solid #dee2e6;">
+                <div style="text-align: center; margin-bottom: 10px;">
+                  <img src="https://pbs.twimg.com/media/GuJe9yhXwAAHqOx.jpg"
+                       alt="推文图片 3"
+                       style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); transition: transform 0.2s ease;"/>
+                </div>
+                <div style="text-align: center; padding: 8px 0;">
+                  <a href="https://twitter.com/CloudflareRadar/status/1937215293622804760/photo/1" target="_blank"
+                     style="color: #1da1f2; text-decoration: none; font-weight: 500; font-size: 14px; padding: 6px 12px; background: rgba(29, 161, 242, 0.1); border-radius: 20px; display: inline-block;">
+                    📷 查看高清原图
+                  </a>
+                </div>
+              </div>
+              <div style="margin: 20px 0; padding: 15px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 12px; border: 1px solid #dee2e6;">
+                <div style="text-align: center; margin-bottom: 10px;">
+                  <img src="https://pbs.twimg.com/media/GuJe9yyXgAA5z-e.jpg"
+                       alt="推文图片 4"
+                       style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); transition: transform 0.2s ease;"/>
+                </div>
+                <div style="text-align: center; padding: 8px 0;">
+                  <a href="https://twitter.com/CloudflareRadar/status/1937215293622804760/photo/1" target="_blank"
+                     style="color: #1da1f2; text-decoration: none; font-weight: 500; font-size: 14px; padding: 6px 12px; background: rgba(29, 161, 242, 0.1); border-radius: 20px; display: inline-block;">
+                    📷 查看高清原图
+                  </a>
+                </div>
+              </div>
+
+<!-- 作者和互动信息区域 -->
+<div style="margin-top: 24px; padding: 20px 24px; background: linear-gradient(135deg, #f1f3f4 0%, #e9ecef 100%); border-top: 1px solid #dee2e6;">
+
+  <!-- 作者信息 -->
+  <div style="display: flex; align-items: center; margin-bottom: 16px; padding: 12px; background: #ffffff; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+    <img src="https://pbs.twimg.com/profile_images/1763583568888922112/tSuYI8FM_normal.png" alt="Cloudflare Radar的头像" style="width: 48px; height: 48px; border-radius: 50%; margin-right: 12px; border: 2px solid #1da1f2; box-shadow: 0 2px 8px rgba(29, 161, 242, 0.2);"/>
+    <div style="flex: 1;">
+      <div style="color: #14171a; font-size: 18px; font-weight: 600; margin-bottom: 2px;">Cloudflare Radar</div>
+      <div style="color: #657786; font-size: 15px;">@CloudflareRadar</div>
+    </div>
+  </div>
+
+  <!-- 互动数据 -->
+  <div style="display: flex; flex-wrap: wrap; gap: 16px; margin: 16px 0; padding: 16px; background: #ffffff; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+    <div style="display: flex; align-items: center; padding: 8px 12px; background: linear-gradient(135deg, #ff6b6b 0%, #ee5a52 100%); color: white; border-radius: 20px; font-size: 14px; font-weight: 500;">
+      <span style="margin-right: 6px;">❤️</span>
+      <span>71 点赞</span>
+    </div>
+    <div style="display: flex; align-items: center; padding: 8px 12px; background: linear-gradient(135deg, #4ecdc4 0%, #44a08d 100%); color: white; border-radius: 20px; font-size: 14px; font-weight: 500;">
+      <span style="margin-right: 6px;">🔄</span>
+      <span>14 转发</span>
+    </div>
+    <div style="display: flex; align-items: center; padding: 8px 12px; background: linear-gradient(135deg, #45b7d1 0%, #96c93d 100%); color: white; border-radius: 20px; font-size: 14px; font-weight: 500;">
+      <span style="margin-right: 6px;">💬</span>
+      <span>0 回复</span>
+    </div>
+    
+    <div style="display: flex; align-items: center; padding: 8px 12px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color: white; border-radius: 20px; font-size: 14px; font-weight: 500;">
+      <span style="margin-right: 6px;">👁️</span>
+      <span>24,733 浏览</span>
+    </div>
+  </div>
+
+  <!-- 链接和时间信息 -->
+  <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 16px; margin-top: 16px; padding: 16px; background: #ffffff; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+    <a href="https://x.com/CloudflareRadar/status/1937215293622804760" target="_blank" style="display: inline-flex; align-items: center; color: #ffffff; background: linear-gradient(135deg, #1da1f2 0%, #0d8bd9 100%); text-decoration: none; font-weight: 600; padding: 10px 16px; border-radius: 25px; font-size: 14px; box-shadow: 0 4px 12px rgba(29, 161, 242, 0.3); transition: transform 0.2s ease;">
+      <span style="margin-right: 8px;">🔗</span>
+      <span>查看原推文</span>
+    </a>
+    <div style="color: #657786; font-size: 14px; padding: 8px 12px; background: #f8f9fa; border-radius: 20px;">
+      <span style="margin-right: 6px;">🕒</span>
+      <span>发布时间: 2025/6/24 02:24:52</span>
+    </div>
+  </div>
+</div>
+
+</div>
+        ]]></content:encoded>
+            <author>CloudflareRadar@twitter.com (Cloudflare Radar)</author>
+            <enclosure url="https://pbs.twimg.com/profile_images/1763583568888922112/tSuYI8FM_normal.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Hims House: THE BIGGEST $HIMS DATA TRACKER WE'VE PUBLISHED 🤯
+
+Here's our breakdown of all o...]]></title>
+            <link>https://x.com/himshouse/status/1936074738750697726</link>
+            <guid isPermaLink="false">1936074738750697726</guid>
+            <pubDate>Fri, 20 Jun 2025 14:52:42 GMT</pubDate>
+            <description><![CDATA[THE BIGGEST $HIMS DATA TRACKER WE'VE PUBLISHED 🤯
+
+Here's our breakdown of all of the most important data on $HIMS -- credit card data, google trends, web traffic, app data, and more
+
+PLUS - a new *preliminary* Q2 revenue prediction 
+
+(link below)]]></description>
+            <content:encoded><![CDATA[
+<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; line-height: 1.7; color: #1a1a1a; max-width: 100%; background: #ffffff; border-radius: 16px; overflow: hidden;">
+
+<!-- 推文内容区域 -->
+<div style="padding: 24px; background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);">
+  <blockquote style="margin: 0; padding: 20px 24px; border-left: 5px solid #1da1f2; background: linear-gradient(135deg, #f8f9fa 0%, #e3f2fd 100%); font-style: normal; border-radius: 0 12px 12px 0; box-shadow: 0 2px 8px rgba(29, 161, 242, 0.1);">
+    <div style="font-size: 16px; line-height: 1.6; color: #2c3e50;">
+      <div style="margin: 16px 0; padding: 0; line-height: 1.6;">THE BIGGEST $HIMS DATA TRACKER WE&<span style="color: #1da1f2; font-weight: 600; padding: 2px 6px; background: linear-gradient(135deg, rgba(29, 161, 242, 0.1) 0%, rgba(29, 161, 242, 0.05) 100%); border-radius: 12px; border: 1px solid rgba(29, 161, 242, 0.2);">#039</span>;VE PUBLISHED 🤯</div><div style="margin: 16px 0; padding: 0; line-height: 1.6;">Here&<span style="color: #1da1f2; font-weight: 600; padding: 2px 6px; background: linear-gradient(135deg, rgba(29, 161, 242, 0.1) 0%, rgba(29, 161, 242, 0.05) 100%); border-radius: 12px; border: 1px solid rgba(29, 161, 242, 0.2);">#039</span>;s our breakdown of all of the most important data on $HIMS -- credit card data, google trends, web traffic, app data, and more</div><div style="margin: 16px 0; padding: 0; line-height: 1.6;">PLUS - a new *preliminary* Q2 revenue prediction </div><div style="margin: 16px 0; padding: 0; line-height: 1.6;">(link below)</div>
+    </div>
+  </blockquote>
+</div>
+
+<!-- 媒体内容区域 -->
+
+              <div style="margin: 20px 0; padding: 15px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 12px; border: 1px solid #dee2e6;">
+                <div style="text-align: center; margin-bottom: 10px;">
+                  <img src="https://pbs.twimg.com/media/Gt5Q4KoXYAAKSCx.jpg"
+                       alt="推文图片 1"
+                       style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); transition: transform 0.2s ease;"/>
+                </div>
+                <div style="text-align: center; padding: 8px 0;">
+                  <a href="https://twitter.com/himshouse/status/1936074738750697726/photo/1" target="_blank"
+                     style="color: #1da1f2; text-decoration: none; font-weight: 500; font-size: 14px; padding: 6px 12px; background: rgba(29, 161, 242, 0.1); border-radius: 20px; display: inline-block;">
+                    📷 查看高清原图
+                  </a>
+                </div>
+              </div>
+
+<!-- 作者和互动信息区域 -->
+<div style="margin-top: 24px; padding: 20px 24px; background: linear-gradient(135deg, #f1f3f4 0%, #e9ecef 100%); border-top: 1px solid #dee2e6;">
+
+  <!-- 作者信息 -->
+  <div style="display: flex; align-items: center; margin-bottom: 16px; padding: 12px; background: #ffffff; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+    <img src="https://pbs.twimg.com/profile_images/1835729481220382720/9M1RWQUa_normal.jpg" alt="Hims House的头像" style="width: 48px; height: 48px; border-radius: 50%; margin-right: 12px; border: 2px solid #1da1f2; box-shadow: 0 2px 8px rgba(29, 161, 242, 0.2);"/>
+    <div style="flex: 1;">
+      <div style="color: #14171a; font-size: 18px; font-weight: 600; margin-bottom: 2px;">Hims House</div>
+      <div style="color: #657786; font-size: 15px;">@himshouse</div>
+    </div>
+  </div>
+
+  <!-- 互动数据 -->
+  <div style="display: flex; flex-wrap: wrap; gap: 16px; margin: 16px 0; padding: 16px; background: #ffffff; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+    <div style="display: flex; align-items: center; padding: 8px 12px; background: linear-gradient(135deg, #ff6b6b 0%, #ee5a52 100%); color: white; border-radius: 20px; font-size: 14px; font-weight: 500;">
+      <span style="margin-right: 6px;">❤️</span>
+      <span>107 点赞</span>
+    </div>
+    <div style="display: flex; align-items: center; padding: 8px 12px; background: linear-gradient(135deg, #4ecdc4 0%, #44a08d 100%); color: white; border-radius: 20px; font-size: 14px; font-weight: 500;">
+      <span style="margin-right: 6px;">🔄</span>
+      <span>7 转发</span>
+    </div>
+    <div style="display: flex; align-items: center; padding: 8px 12px; background: linear-gradient(135deg, #45b7d1 0%, #96c93d 100%); color: white; border-radius: 20px; font-size: 14px; font-weight: 500;">
+      <span style="margin-right: 6px;">💬</span>
+      <span>5 回复</span>
+    </div>
+    
+    <div style="display: flex; align-items: center; padding: 8px 12px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color: white; border-radius: 20px; font-size: 14px; font-weight: 500;">
+      <span style="margin-right: 6px;">👁️</span>
+      <span>13,015 浏览</span>
+    </div>
+  </div>
+
+  <!-- 链接和时间信息 -->
+  <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 16px; margin-top: 16px; padding: 16px; background: #ffffff; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+    <a href="https://x.com/himshouse/status/1936074738750697726" target="_blank" style="display: inline-flex; align-items: center; color: #ffffff; background: linear-gradient(135deg, #1da1f2 0%, #0d8bd9 100%); text-decoration: none; font-weight: 600; padding: 10px 16px; border-radius: 25px; font-size: 14px; box-shadow: 0 4px 12px rgba(29, 161, 242, 0.3); transition: transform 0.2s ease;">
+      <span style="margin-right: 8px;">🔗</span>
+      <span>查看原推文</span>
+    </a>
+    <div style="color: #657786; font-size: 14px; padding: 8px 12px; background: #f8f9fa; border-radius: 20px;">
+      <span style="margin-right: 6px;">🕒</span>
+      <span>发布时间: 2025/6/20 22:52:42</span>
+    </div>
+  </div>
+</div>
+
+</div>
+        ]]></content:encoded>
+            <author>himshouse@twitter.com (Hims House)</author>
+            <enclosure url="https://pbs.twimg.com/profile_images/1835729481220382720/9M1RWQUa_normal.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hims House: 🚨 TOMORROW - the $HIMS Data Tracker gets an upgrade
+
+For the first time, we’re ...]]></title>
+            <link>https://x.com/himshouse/status/1935755574408253753</link>
+            <guid isPermaLink="false">1935755574408253753</guid>
+            <pubDate>Thu, 19 Jun 2025 17:44:28 GMT</pubDate>
+            <description><![CDATA[🚨 TOMORROW - the $HIMS Data Tracker gets an upgrade
+
+For the first time, we’re adding weekly web traffic + app activity
+
+As always, we’ll break down credit card data, Google Trends, and Meta ads — and share a fresh Q2 revenue prediction
+
+👉 https://t.co/2GkN5tVx3K]]></description>
+            <content:encoded><![CDATA[
+<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; line-height: 1.7; color: #1a1a1a; max-width: 100%; background: #ffffff; border-radius: 16px; overflow: hidden;">
+
+<!-- 推文内容区域 -->
+<div style="padding: 24px; background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);">
+  <blockquote style="margin: 0; padding: 20px 24px; border-left: 5px solid #1da1f2; background: linear-gradient(135deg, #f8f9fa 0%, #e3f2fd 100%); font-style: normal; border-radius: 0 12px 12px 0; box-shadow: 0 2px 8px rgba(29, 161, 242, 0.1);">
+    <div style="font-size: 16px; line-height: 1.6; color: #2c3e50;">
+      <div style="margin: 16px 0; padding: 0; line-height: 1.6;">🚨 TOMORROW - the $HIMS Data Tracker gets an upgrade</div><div style="margin: 16px 0; padding: 0; line-height: 1.6;">For the first time, we’re adding weekly web traffic + app activity</div><div style="margin: 16px 0; padding: 0; line-height: 1.6;">As always, we’ll break down credit card data, Google Trends, and Meta ads — and share a fresh Q2 revenue prediction</div><div style="margin: 16px 0; padding: 0; line-height: 1.6;">👉 <a href="https://t.co/2GkN5tVx3K" target="_blank" style="color: <span style="color: #1da1f2; font-weight: 600; padding: 2px 6px; background: linear-gradient(135deg, rgba(29, 161, 242, 0.1) 0%, rgba(29, 161, 242, 0.05) 100%); border-radius: 12px; border: 1px solid rgba(29, 161, 242, 0.2);">#1da1f2</span>; text-decoration: none; font-weight: 500; padding: 2px 6px; background: rgba(29, 161, 242, 0.1); border-radius: 4px; border-bottom: 2px solid <span style="color: #1da1f2; font-weight: 600; padding: 2px 6px; background: linear-gradient(135deg, rgba(29, 161, 242, 0.1) 0%, rgba(29, 161, 242, 0.05) 100%); border-radius: 12px; border: 1px solid rgba(29, 161, 242, 0.2);">#1da1f2</span>;">🔗 链接</a></div>
+    </div>
+  </blockquote>
+</div>
+
+<!-- 媒体内容区域 -->
+
+
+<!-- 作者和互动信息区域 -->
+<div style="margin-top: 24px; padding: 20px 24px; background: linear-gradient(135deg, #f1f3f4 0%, #e9ecef 100%); border-top: 1px solid #dee2e6;">
+
+  <!-- 作者信息 -->
+  <div style="display: flex; align-items: center; margin-bottom: 16px; padding: 12px; background: #ffffff; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+    <img src="https://pbs.twimg.com/profile_images/1835729481220382720/9M1RWQUa_normal.jpg" alt="Hims House的头像" style="width: 48px; height: 48px; border-radius: 50%; margin-right: 12px; border: 2px solid #1da1f2; box-shadow: 0 2px 8px rgba(29, 161, 242, 0.2);"/>
+    <div style="flex: 1;">
+      <div style="color: #14171a; font-size: 18px; font-weight: 600; margin-bottom: 2px;">Hims House</div>
+      <div style="color: #657786; font-size: 15px;">@himshouse</div>
+    </div>
+  </div>
+
+  <!-- 互动数据 -->
+  <div style="display: flex; flex-wrap: wrap; gap: 16px; margin: 16px 0; padding: 16px; background: #ffffff; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+    <div style="display: flex; align-items: center; padding: 8px 12px; background: linear-gradient(135deg, #ff6b6b 0%, #ee5a52 100%); color: white; border-radius: 20px; font-size: 14px; font-weight: 500;">
+      <span style="margin-right: 6px;">❤️</span>
+      <span>94 点赞</span>
+    </div>
+    <div style="display: flex; align-items: center; padding: 8px 12px; background: linear-gradient(135deg, #4ecdc4 0%, #44a08d 100%); color: white; border-radius: 20px; font-size: 14px; font-weight: 500;">
+      <span style="margin-right: 6px;">🔄</span>
+      <span>12 转发</span>
+    </div>
+    <div style="display: flex; align-items: center; padding: 8px 12px; background: linear-gradient(135deg, #45b7d1 0%, #96c93d 100%); color: white; border-radius: 20px; font-size: 14px; font-weight: 500;">
+      <span style="margin-right: 6px;">💬</span>
+      <span>3 回复</span>
+    </div>
+    
+    <div style="display: flex; align-items: center; padding: 8px 12px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color: white; border-radius: 20px; font-size: 14px; font-weight: 500;">
+      <span style="margin-right: 6px;">👁️</span>
+      <span>13,350 浏览</span>
+    </div>
+  </div>
+
+  <!-- 链接和时间信息 -->
+  <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 16px; margin-top: 16px; padding: 16px; background: #ffffff; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+    <a href="https://x.com/himshouse/status/1935755574408253753" target="_blank" style="display: inline-flex; align-items: center; color: #ffffff; background: linear-gradient(135deg, #1da1f2 0%, #0d8bd9 100%); text-decoration: none; font-weight: 600; padding: 10px 16px; border-radius: 25px; font-size: 14px; box-shadow: 0 4px 12px rgba(29, 161, 242, 0.3); transition: transform 0.2s ease;">
+      <span style="margin-right: 8px;">🔗</span>
+      <span>查看原推文</span>
+    </a>
+    <div style="color: #657786; font-size: 14px; padding: 8px 12px; background: #f8f9fa; border-radius: 20px;">
+      <span style="margin-right: 6px;">🕒</span>
+      <span>发布时间: 2025/6/20 01:44:28</span>
+    </div>
+  </div>
+</div>
+
+</div>
+        ]]></content:encoded>
+            <author>himshouse@twitter.com (Hims House)</author>
+            <enclosure url="https://pbs.twimg.com/profile_images/1835729481220382720/9M1RWQUa_normal.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[War of Nova: Data talks: @warofnova, our first flagship title, crushed it with Season 1.
+
+✅ C...]]></title>
+            <link>https://x.com/warofnova/status/1933211524111147241</link>
+            <guid isPermaLink="false">1933211524111147241</guid>
+            <pubDate>Thu, 12 Jun 2025 17:15:19 GMT</pubDate>
+            <description><![CDATA[Data talks: @warofnova, our first flagship title, crushed it with Season 1.
+
+✅ Consistent organic growth and retention.
+✅ $2M in-app revenue / 3,100+ paying users.
+✅ Average session length 30+ minutes.
+✅ Web2 ARPDAU $52 / Web3 ARPDAU $102.
+✅ Real-time guild coordination and strategy.
+
+Next up, $RCADE TGE and @SkyborneLegacy Phoenix Flight launch. The best part is that we're just getting started.]]></description>
+            <content:encoded><![CDATA[
+<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; line-height: 1.7; color: #1a1a1a; max-width: 100%; background: #ffffff; border-radius: 16px; overflow: hidden;">
+
+<!-- 推文内容区域 -->
+<div style="padding: 24px; background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);">
+  <blockquote style="margin: 0; padding: 20px 24px; border-left: 5px solid #1da1f2; background: linear-gradient(135deg, #f8f9fa 0%, #e3f2fd 100%); font-style: normal; border-radius: 0 12px 12px 0; box-shadow: 0 2px 8px rgba(29, 161, 242, 0.1);">
+    <div style="font-size: 16px; line-height: 1.6; color: #2c3e50;">
+      <div style="margin: 16px 0; padding: 0; line-height: 1.6;">Data talks: <a href="https://twitter.com/warofnova" target="_blank" style="color: <span style="color: #1da1f2; font-weight: 600; padding: 2px 6px; background: linear-gradient(135deg, rgba(29, 161, 242, 0.1) 0%, rgba(29, 161, 242, 0.05) 100%); border-radius: 12px; border: 1px solid rgba(29, 161, 242, 0.2);">#1da1f2</span>; text-decoration: none; font-weight: 600; padding: 2px 6px; background: rgba(29, 161, 242, 0.1); border-radius: 12px;">@warofnova</a>, our first flagship title, crushed it with Season 1.</div><div style="margin: 16px 0; padding: 0; line-height: 1.6;">✅ Consistent organic growth and retention.<br style="margin: 8px 0;"/>✅ $2M in-app revenue / 3,100+ paying users.<br style="margin: 8px 0;"/>✅ Average session length 30+ minutes.<br style="margin: 8px 0;"/>✅ Web2 ARPDAU $52 / Web3 ARPDAU $102.<br style="margin: 8px 0;"/>✅ Real-time guild coordination and strategy.</div><div style="margin: 16px 0; padding: 0; line-height: 1.6;">Next up, $RCADE TGE and <a href="https://twitter.com/SkyborneLegacy" target="_blank" style="color: <span style="color: #1da1f2; font-weight: 600; padding: 2px 6px; background: linear-gradient(135deg, rgba(29, 161, 242, 0.1) 0%, rgba(29, 161, 242, 0.05) 100%); border-radius: 12px; border: 1px solid rgba(29, 161, 242, 0.2);">#1da1f2</span>; text-decoration: none; font-weight: 600; padding: 2px 6px; background: rgba(29, 161, 242, 0.1); border-radius: 12px;">@SkyborneLegacy</a> Phoenix Flight launch. The best part is that we&<span style="color: #1da1f2; font-weight: 600; padding: 2px 6px; background: linear-gradient(135deg, rgba(29, 161, 242, 0.1) 0%, rgba(29, 161, 242, 0.05) 100%); border-radius: 12px; border: 1px solid rgba(29, 161, 242, 0.2);">#039</span>;re just getting started.</div>
+    </div>
+  </blockquote>
+</div>
+
+<!-- 媒体内容区域 -->
+
+              <div style="margin: 20px 0; padding: 15px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 12px; border: 1px solid #dee2e6;">
+                <div style="text-align: center; margin-bottom: 10px;">
+                  <img src="https://pbs.twimg.com/media/GtQkdAtWsAAMNqP.jpg"
+                       alt="推文图片 1"
+                       style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); transition: transform 0.2s ease;"/>
+                </div>
+                <div style="text-align: center; padding: 8px 0;">
+                  <a href="https://twitter.com/warofnova/status/1933211524111147241/photo/1" target="_blank"
+                     style="color: #1da1f2; text-decoration: none; font-weight: 500; font-size: 14px; padding: 6px 12px; background: rgba(29, 161, 242, 0.1); border-radius: 20px; display: inline-block;">
+                    📷 查看高清原图
+                  </a>
+                </div>
+              </div>
+              <div style="margin: 20px 0; padding: 15px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 12px; border: 1px solid #dee2e6;">
+                <div style="text-align: center; margin-bottom: 10px;">
+                  <img src="https://pbs.twimg.com/media/GtQkdA8XwAAqyEk.jpg"
+                       alt="推文图片 2"
+                       style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); transition: transform 0.2s ease;"/>
+                </div>
+                <div style="text-align: center; padding: 8px 0;">
+                  <a href="https://twitter.com/warofnova/status/1933211524111147241/photo/1" target="_blank"
+                     style="color: #1da1f2; text-decoration: none; font-weight: 500; font-size: 14px; padding: 6px 12px; background: rgba(29, 161, 242, 0.1); border-radius: 20px; display: inline-block;">
+                    📷 查看高清原图
+                  </a>
+                </div>
+              </div>
+              <div style="margin: 20px 0; padding: 15px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 12px; border: 1px solid #dee2e6;">
+                <div style="text-align: center; margin-bottom: 10px;">
+                  <img src="https://pbs.twimg.com/media/GtQkdEoWoAAX0kn.jpg"
+                       alt="推文图片 3"
+                       style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); transition: transform 0.2s ease;"/>
+                </div>
+                <div style="text-align: center; padding: 8px 0;">
+                  <a href="https://twitter.com/warofnova/status/1933211524111147241/photo/1" target="_blank"
+                     style="color: #1da1f2; text-decoration: none; font-weight: 500; font-size: 14px; padding: 6px 12px; background: rgba(29, 161, 242, 0.1); border-radius: 20px; display: inline-block;">
+                    📷 查看高清原图
+                  </a>
+                </div>
+              </div>
+              <div style="margin: 20px 0; padding: 15px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 12px; border: 1px solid #dee2e6;">
+                <div style="text-align: center; margin-bottom: 10px;">
+                  <img src="https://pbs.twimg.com/media/GtQkdD7XgAAinGp.jpg"
+                       alt="推文图片 4"
+                       style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); transition: transform 0.2s ease;"/>
+                </div>
+                <div style="text-align: center; padding: 8px 0;">
+                  <a href="https://twitter.com/warofnova/status/1933211524111147241/photo/1" target="_blank"
+                     style="color: #1da1f2; text-decoration: none; font-weight: 500; font-size: 14px; padding: 6px 12px; background: rgba(29, 161, 242, 0.1); border-radius: 20px; display: inline-block;">
+                    📷 查看高清原图
+                  </a>
+                </div>
+              </div>
+
+<!-- 作者和互动信息区域 -->
+<div style="margin-top: 24px; padding: 20px 24px; background: linear-gradient(135deg, #f1f3f4 0%, #e9ecef 100%); border-top: 1px solid #dee2e6;">
+
+  <!-- 作者信息 -->
+  <div style="display: flex; align-items: center; margin-bottom: 16px; padding: 12px; background: #ffffff; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+    <img src="https://pbs.twimg.com/profile_images/1842296184968216577/T8dTCWad_normal.jpg" alt="War of Nova的头像" style="width: 48px; height: 48px; border-radius: 50%; margin-right: 12px; border: 2px solid #1da1f2; box-shadow: 0 2px 8px rgba(29, 161, 242, 0.2);"/>
+    <div style="flex: 1;">
+      <div style="color: #14171a; font-size: 18px; font-weight: 600; margin-bottom: 2px;">War of Nova</div>
+      <div style="color: #657786; font-size: 15px;">@warofnova</div>
+    </div>
+  </div>
+
+  <!-- 互动数据 -->
+  <div style="display: flex; flex-wrap: wrap; gap: 16px; margin: 16px 0; padding: 16px; background: #ffffff; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+    <div style="display: flex; align-items: center; padding: 8px 12px; background: linear-gradient(135deg, #ff6b6b 0%, #ee5a52 100%); color: white; border-radius: 20px; font-size: 14px; font-weight: 500;">
+      <span style="margin-right: 6px;">❤️</span>
+      <span>527 点赞</span>
+    </div>
+    <div style="display: flex; align-items: center; padding: 8px 12px; background: linear-gradient(135deg, #4ecdc4 0%, #44a08d 100%); color: white; border-radius: 20px; font-size: 14px; font-weight: 500;">
+      <span style="margin-right: 6px;">🔄</span>
+      <span>252 转发</span>
+    </div>
+    <div style="display: flex; align-items: center; padding: 8px 12px; background: linear-gradient(135deg, #45b7d1 0%, #96c93d 100%); color: white; border-radius: 20px; font-size: 14px; font-weight: 500;">
+      <span style="margin-right: 6px;">💬</span>
+      <span>59 回复</span>
+    </div>
+    
+    <div style="display: flex; align-items: center; padding: 8px 12px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color: white; border-radius: 20px; font-size: 14px; font-weight: 500;">
+      <span style="margin-right: 6px;">👁️</span>
+      <span>50,533 浏览</span>
+    </div>
+  </div>
+
+  <!-- 链接和时间信息 -->
+  <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 16px; margin-top: 16px; padding: 16px; background: #ffffff; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+    <a href="https://x.com/warofnova/status/1933211524111147241" target="_blank" style="display: inline-flex; align-items: center; color: #ffffff; background: linear-gradient(135deg, #1da1f2 0%, #0d8bd9 100%); text-decoration: none; font-weight: 600; padding: 10px 16px; border-radius: 25px; font-size: 14px; box-shadow: 0 4px 12px rgba(29, 161, 242, 0.3); transition: transform 0.2s ease;">
+      <span style="margin-right: 8px;">🔗</span>
+      <span>查看原推文</span>
+    </a>
+    <div style="color: #657786; font-size: 14px; padding: 8px 12px; background: #f8f9fa; border-radius: 20px;">
+      <span style="margin-right: 6px;">🕒</span>
+      <span>发布时间: 2025/6/13 01:15:19</span>
+    </div>
+  </div>
+</div>
+
+</div>
+        ]]></content:encoded>
+            <author>warofnova@twitter.com (War of Nova)</author>
+            <enclosure url="https://pbs.twimg.com/profile_images/1842296184968216577/T8dTCWad_normal.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
