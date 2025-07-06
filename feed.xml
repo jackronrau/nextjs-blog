@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>精选推文精选推文精选推文精选推文Twitter recentGrowthHacking 精选推文</title>
+        <title>Twitter recentGrowthHacking 精选推文</title>
         <link>http://localhost:3000/feeds/</link>
         <description>来自Twitter recentGrowthHacking策略的精选推文内容，包含增长黑客、营销策略、商业洞察等优质内容</description>
-        <lastBuildDate>Sun, 06 Jul 2025 05:42:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Jul 2025 06:00:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>NextFeed RSS Generator v1.0</generator>
         <language>zh-CN</language>
@@ -17,7 +17,7 @@
         <copyright>Twitter Content</copyright>
         <atom:link href="http://localhost:3000/feeds/twitter-recentGrowthHacking.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Onat Aksaray: My #1 growth hack?精选推文精选推文精选推文精选推
+            <title><![CDATA[Onat Aksaray: My #1 growth hack?
 Make friends.
 
 My #1 client acquisition hack?
@@ -28,7 +28,7 @@ Make friends.
             <guid isPermaLink="false">1938937023584194914</guid>
             <pubDate>Sat, 28 Jun 2025 12:26:24 GMT</pubDate>
             <description><![CDATA[My #1 growth hack?
-Make friends.Make friends.Make friends.Make friends.Make friends.Make friends.
+Make friends.
 
 My #1 client acquisition hack?
 Make friends.
@@ -39,43 +39,33 @@ Make friends.
 At the end of the day..
 
 It's all about people.]]></description>
-            <content:encoded><![CDATA[
-<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #333;">
-
-<blockquote style="margin: 0; padding: 15px; border-left: 4px solid #1da1f2; background: #f8f9fa; font-style: italic;">
-<p style="margin: 15px 0;">My <a href="https://twitter.com/hashtag/1" target="_blank" style="color: #1da1f2; text-decoration: none;">#1</a> growth hack?<br/>Make friends.</p><p style="margin: 15px 0;">My <a href="https://twitter.com/hashtag/1" target="_blank" style="color: #1da1f2; text-decoration: none;">#1</a> client acquisition hack?<br/>Make friends.</p><p style="margin: 15px 0;">My <a href="https://twitter.com/hashtag/1" target="_blank" style="color: #1da1f2; text-decoration: none;">#1</a> market research hack?<br/>Make friends.</p><p style="margin: 15px 0;">At the end of the day..</p><p style="margin: 15px 0;">It&<a href="https://twitter.com/hashtag/039" target="_blank" style="color: #1da1f2; text-decoration: none;">#039</a>;s all about people.</p>
+            <content:encoded><![CDATA[<div class="tweet-content">
+<h2>📝 推文内容</h2>
+<blockquote>
+<p>My <code>#1</code> growth hack?<br>Make friends.</p>
+<p>My <code>#1</code> client acquisition hack?<br>Make friends.</p>
+<p>My <code>#1</code> market research hack?<br>Make friends.</p>
+<p>At the end of the day..</p>
+<p>It's all about people.</p>
 </blockquote>
 
 
 
-<div style="margin-top: 20px; padding: 15px; background: #f1f3f4; border-radius: 8px;">
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <img src="https://pbs.twimg.com/profile_images/1816068425514381312/N9kyKtFq_normal.jpg" alt="头像" style="width: 32px; height: 32px; border-radius: 50%; margin-right: 10px;"/>
-  <div>
-    <strong style="color: #14171a; font-size: 16px;">Onat Aksaray</strong>
-    <div style="color: #657786; font-size: 14px;">@OnatAksaray</div>
-  </div>
-</div>
+<h3>👤 作者信息</h3>
+<p><strong>作者:</strong> Onat Aksaray (<code>@OnatAksaray</code>)</p>
 
-<div style="display: flex; gap: 20px; margin: 15px 0; font-size: 14px; color: #657786;">
-  <span><strong>115</strong> 点赞</span>
-  <span><strong>1</strong> 转发</span>
-  <span><strong>71</strong> 回复</span>
-  <span><strong>3,343</strong> 浏览</span>
-</div>
+<h3>📊 互动数据</h3>
+<ul>
+<li><strong>👍 点赞:</strong> 115</li>
+<li><strong>🔄 转发:</strong> 1</li>
+<li><strong>💬 回复:</strong> 71</li>
+<li><strong>👀 浏览:</strong> 3,343</li>
+</ul>
 
-<div style="margin-top: 15px;">
-  <a href="https://x.com/OnatAksaray/status/1938937023584194914" target="_blank" style="color: #1da1f2; text-decoration: none; font-weight: 500;">
-    🔗 查看原推文
-  </a>
-  <span style="color: #657786; margin-left: 15px; font-size: 13px;">
-    发布时间: 2025/6/28 20:26:24
-  </span>
-</div>
-</div>
-
-</div>
-        ]]></content:encoded>
+<h3>🔗 链接信息</h3>
+<p><strong>原始链接:</strong> <a href="https://x.com/OnatAksaray/status/1938937023584194914" target="_blank">查看原推文</a></p>
+<p><strong>发布时间:</strong> 2025/6/28 20:26:24</p>
+</div>]]></content:encoded>
             <author>OnatAksaray@twitter.com (Onat Aksaray)</author>
             <enclosure url="https://pbs.twimg.com/profile_images/1816068425514381312/N9kyKtFq_normal.jpg" length="0" type="image/jpg"/>
         </item>
@@ -97,51 +87,35 @@ Month-over-month traffic growth in May:
 @GoogleAI: 1,349,027 → 2,042,165 (+51.38%)
 @NotebookLM: 48,340,200 → 64,906,295 (+34.27%)
 @GeminiApp: 409,432,013 → 527,738,672 (+28.90%)]]></description>
-            <content:encoded><![CDATA[
-<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #333;">
-
-<blockquote style="margin: 0; padding: 15px; border-left: 4px solid #1da1f2; background: #f8f9fa; font-style: italic;">
-<p style="margin: 15px 0;">Google&<a href="https://twitter.com/hashtag/039" target="_blank" style="color: #1da1f2; text-decoration: none;">#039</a>;s AI domains are thriving.</p><p style="margin: 15px 0;">Month-over-month traffic growth in May:</p><p style="margin: 15px 0;"><a href="https://twitter.com/GoogleDeepMind" target="_blank" style="color: <a href="https://twitter.com/hashtag/1da1f2" target="_blank" style="color: #1da1f2; text-decoration: none;">#1da1f2</a>; text-decoration: none;">@GoogleDeepMind</a>: 4,258,300 → 11,189,832 (+162.78%)<br/><a href="https://twitter.com/GoogleLabs" target="_blank" style="color: <a href="https://twitter.com/hashtag/1da1f2" target="_blank" style="color: #1da1f2; text-decoration: none;">#1da1f2</a>; text-decoration: none;">@GoogleLabs</a>: 9,796,459 → 19,792,943 (+102.04%)<br/><a href="https://twitter.com/GoogleAI" target="_blank" style="color: <a href="https://twitter.com/hashtag/1da1f2" target="_blank" style="color: #1da1f2; text-decoration: none;">#1da1f2</a>; text-decoration: none;">@GoogleAI</a>: 1,349,027 → 2,042,165 (+51.38%)<br/><a href="https://twitter.com/NotebookLM" target="_blank" style="color: <a href="https://twitter.com/hashtag/1da1f2" target="_blank" style="color: #1da1f2; text-decoration: none;">#1da1f2</a>; text-decoration: none;">@NotebookLM</a>: 48,340,200 → 64,906,295 (+34.27%)<br/><a href="https://twitter.com/GeminiApp" target="_blank" style="color: <a href="https://twitter.com/hashtag/1da1f2" target="_blank" style="color: #1da1f2; text-decoration: none;">#1da1f2</a>; text-decoration: none;">@GeminiApp</a>: 409,432,013 → 527,738,672 (+28.90%)</p>
+            <content:encoded><![CDATA[<div class="tweet-content">
+<h2>📝 推文内容</h2>
+<blockquote>
+<p>Google's AI domains are thriving.</p>
+<p>Month-over-month traffic growth in May:</p>
+<p><strong>@GoogleDeepMind</strong>: 4,258,300 → 11,189,832 (+162.78%)<br><strong>@GoogleLabs</strong>: 9,796,459 → 19,792,943 (+102.04%)<br><strong>@GoogleAI</strong>: 1,349,027 → 2,042,165 (+51.38%)<br><strong>@NotebookLM</strong>: 48,340,200 → 64,906,295 (+34.27%)<br><strong>@GeminiApp</strong>: 409,432,013 → 527,738,672 (+28.90%)</p>
 </blockquote>
 
 
-              <div style="margin: 15px 0; text-align: center;">
-                <img src="https://pbs.twimg.com/media/GuW_jKyXIAA_WYO.png"
-                     alt="Tweet Image"
-                     style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
-                <p style="font-size: 0.8em; color: #666; margin: 5px 0 0 0;">
-                  <a href="https://twitter.com/Similarweb/status/1938166285113717216/photo/1" target="_blank" style="color: #1da1f2; text-decoration: none;">查看原图</a>
-                </p>
-              </div>
+<h3>📷 媒体内容</h3>
+<p><strong>图片 1:</strong> <a href="https://twitter.com/Similarweb/status/1938166285113717216/photo/1" target="_blank">查看原图</a></p>
+<p><img src="https://pbs.twimg.com/media/GuW_jKyXIAA_WYO.png" alt="推文图片 1" style="max-width: 100%; height: auto;" /></p>
 
-<div style="margin-top: 20px; padding: 15px; background: #f1f3f4; border-radius: 8px;">
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <img src="https://pbs.twimg.com/profile_images/1796148234060021760/iq5AA2vD_normal.jpg" alt="头像" style="width: 32px; height: 32px; border-radius: 50%; margin-right: 10px;"/>
-  <div>
-    <strong style="color: #14171a; font-size: 16px;">Similarweb</strong>
-    <div style="color: #657786; font-size: 14px;">@Similarweb</div>
-  </div>
-</div>
 
-<div style="display: flex; gap: 20px; margin: 15px 0; font-size: 14px; color: #657786;">
-  <span><strong>661</strong> 点赞</span>
-  <span><strong>100</strong> 转发</span>
-  <span><strong>22</strong> 回复</span>
-  <span><strong>213,104</strong> 浏览</span>
-</div>
+<h3>👤 作者信息</h3>
+<p><strong>作者:</strong> Similarweb (<code>@Similarweb</code>)</p>
 
-<div style="margin-top: 15px;">
-  <a href="https://x.com/Similarweb/status/1938166285113717216" target="_blank" style="color: #1da1f2; text-decoration: none; font-weight: 500;">
-    🔗 查看原推文
-  </a>
-  <span style="color: #657786; margin-left: 15px; font-size: 13px;">
-    发布时间: 2025/6/26 17:23:46
-  </span>
-</div>
-</div>
+<h3>📊 互动数据</h3>
+<ul>
+<li><strong>👍 点赞:</strong> 661</li>
+<li><strong>🔄 转发:</strong> 100</li>
+<li><strong>💬 回复:</strong> 22</li>
+<li><strong>👀 浏览:</strong> 213,104</li>
+</ul>
 
-</div>
-        ]]></content:encoded>
+<h3>🔗 链接信息</h3>
+<p><strong>原始链接:</strong> <a href="https://x.com/Similarweb/status/1938166285113717216" target="_blank">查看原推文</a></p>
+<p><strong>发布时间:</strong> 2025/6/26 17:23:46</p>
+</div>]]></content:encoded>
             <author>Similarweb@twitter.com (Similarweb)</author>
             <enclosure url="https://pbs.twimg.com/profile_images/1796148234060021760/iq5AA2vD_normal.jpg" length="0" type="image/jpg"/>
         </item>
@@ -163,43 +137,33 @@ Here's the exact 4-step framework we used:
 • Use Surfer AI Tracker/Ahrefs Brand Radar to see how often AI platforms mention your brand vs. your competitors
 • Plug in your brand and theirs, then filter for AI keywords they’re winning that you’re not
 • Those are the exact topics you need to target and steal]]></description>
-            <content:encoded><![CDATA[
-<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #333;">
-
-<blockquote style="margin: 0; padding: 15px; border-left: 4px solid #1da1f2; background: #f8f9fa; font-style: italic;">
-<p style="margin: 15px 0;">I spent 6 months testing AI SEO tactics for clients.</p><p style="margin: 15px 0;">One saw 2,300% AI traffic growth and now appears in 90+ AI overviews (vs zero before).</p><p style="margin: 15px 0;">Here&<a href="https://twitter.com/hashtag/039" target="_blank" style="color: #1da1f2; text-decoration: none;">#039</a>;s the exact 4-step framework we used:</p><p style="margin: 15px 0;">1. Finding AI Opportunities:</p><p style="margin: 15px 0;">• Use Surfer AI Tracker/Ahrefs Brand Radar to see how often AI platforms mention your brand vs. your competitors<br/>• Plug in your brand and theirs, then filter for AI keywords they’re winning that you’re not<br/>• Those are the exact topics you need to target and steal</p>
+            <content:encoded><![CDATA[<div class="tweet-content">
+<h2>📝 推文内容</h2>
+<blockquote>
+<p>I spent 6 months testing AI SEO tactics for clients.</p>
+<p>One saw 2,300% AI traffic growth and now appears in 90+ AI overviews (vs zero before).</p>
+<p>Here's the exact 4-step framework we used:</p>
+<p>1. Finding AI Opportunities:</p>
+<p>• Use Surfer AI Tracker/Ahrefs Brand Radar to see how often AI platforms mention your brand vs. your competitors<br>• Plug in your brand and theirs, then filter for AI keywords they’re winning that you’re not<br>• Those are the exact topics you need to target and steal</p>
 </blockquote>
 
 
 
-<div style="margin-top: 20px; padding: 15px; background: #f1f3f4; border-radius: 8px;">
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <img src="https://pbs.twimg.com/profile_images/683939437521158144/13UvAMzZ_normal.jpg" alt="头像" style="width: 32px; height: 32px; border-radius: 50%; margin-right: 10px;"/>
-  <div>
-    <strong style="color: #14171a; font-size: 16px;">Matt Diggity</strong>
-    <div style="color: #657786; font-size: 14px;">@mattdiggityseo</div>
-  </div>
-</div>
+<h3>👤 作者信息</h3>
+<p><strong>作者:</strong> Matt Diggity (<code>@mattdiggityseo</code>)</p>
 
-<div style="display: flex; gap: 20px; margin: 15px 0; font-size: 14px; color: #657786;">
-  <span><strong>99</strong> 点赞</span>
-  <span><strong>9</strong> 转发</span>
-  <span><strong>5</strong> 回复</span>
-  <span><strong>9,094</strong> 浏览</span>
-</div>
+<h3>📊 互动数据</h3>
+<ul>
+<li><strong>👍 点赞:</strong> 99</li>
+<li><strong>🔄 转发:</strong> 9</li>
+<li><strong>💬 回复:</strong> 5</li>
+<li><strong>👀 浏览:</strong> 9,094</li>
+</ul>
 
-<div style="margin-top: 15px;">
-  <a href="https://x.com/mattdiggityseo/status/1938165078152646703" target="_blank" style="color: #1da1f2; text-decoration: none; font-weight: 500;">
-    🔗 查看原推文
-  </a>
-  <span style="color: #657786; margin-left: 15px; font-size: 13px;">
-    发布时间: 2025/6/26 17:18:58
-  </span>
-</div>
-</div>
-
-</div>
-        ]]></content:encoded>
+<h3>🔗 链接信息</h3>
+<p><strong>原始链接:</strong> <a href="https://x.com/mattdiggityseo/status/1938165078152646703" target="_blank">查看原推文</a></p>
+<p><strong>发布时间:</strong> 2025/6/26 17:18:58</p>
+</div>]]></content:encoded>
             <author>mattdiggityseo@twitter.com (Matt Diggity)</author>
             <enclosure url="https://pbs.twimg.com/profile_images/683939437521158144/13UvAMzZ_normal.jpg" length="0" type="image/jpg"/>
         </item>
@@ -238,43 +202,40 @@ To master the business they already own.
 
 We resisted the acquisition temptation early.
 And that made us far more capable now.]]></description>
-            <content:encoded><![CDATA[
-<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #333;">
-
-<blockquote style="margin: 0; padding: 15px; border-left: 4px solid #1da1f2; background: #f8f9fa; font-style: italic;">
-<p style="margin: 15px 0;">We acquired a $27M, 4th generation plumbing &amp; HVAC service company.</p><p style="margin: 15px 0;">However, for my first 7 years as CEO, I held this belief:</p><p style="margin: 15px 0;">Organic growth &gt; Growth via acquisition.</p><p style="margin: 15px 0;">Between 2016 and 2022, we scaled Hoffmann Brothers from $9M → $80M organically.</p><p style="margin: 15px 0;">We focused on:</p><p style="margin: 15px 0;">✅ Building a proven operations playbook<br/>✅ Driving consistent results with that playbook<br/>✅ Developing leadership talent deep enough to scale or integrate</p><p style="margin: 15px 0;">That foundation made us ready to acquire--not just eager to.</p><p style="margin: 15px 0;">Too many entrepreneurs in home services get distracted by:</p><p style="margin: 15px 0;">❌ “We’ve acquired X companies”<br/>❌ “We’re in X markets”<br/>❌ “We’re rolling up the industry”</p><p style="margin: 15px 0;">What they really need?</p><p style="margin: 15px 0;">To master the business they already own.</p><p style="margin: 15px 0;">We resisted the acquisition temptation early.<br/>And that made us far more capable now.</p>
+            <content:encoded><![CDATA[<div class="tweet-content">
+<h2>📝 推文内容</h2>
+<blockquote>
+<p>We acquired a $27M, 4th generation plumbing &amp; HVAC service company.</p>
+<p>However, for my first 7 years as CEO, I held this belief:</p>
+<p>Organic growth &gt; Growth via acquisition.</p>
+<p>Between 2016 and 2022, we scaled Hoffmann Brothers from $9M → $80M organically.</p>
+<p>We focused on:</p>
+<p>✅ Building a proven operations playbook<br>✅ Driving consistent results with that playbook<br>✅ Developing leadership talent deep enough to scale or integrate</p>
+<p>That foundation made us ready to acquire--not just eager to.</p>
+<p>Too many entrepreneurs in home services get distracted by:</p>
+<p>❌ “We’ve acquired X companies”<br>❌ “We’re in X markets”<br>❌ “We’re rolling up the industry”</p>
+<p>What they really need?</p>
+<p>To master the business they already own.</p>
+<p>We resisted the acquisition temptation early.<br>And that made us far more capable now.</p>
 </blockquote>
 
 
 
-<div style="margin-top: 20px; padding: 15px; background: #f1f3f4; border-radius: 8px;">
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <img src="https://pbs.twimg.com/profile_images/1938061814056509440/otaUpVuH_normal.jpg" alt="头像" style="width: 32px; height: 32px; border-radius: 50%; margin-right: 10px;"/>
-  <div>
-    <strong style="color: #14171a; font-size: 16px;">Chris Hoffmann</strong>
-    <div style="color: #657786; font-size: 14px;">@STLChrisH</div>
-  </div>
-</div>
+<h3>👤 作者信息</h3>
+<p><strong>作者:</strong> Chris Hoffmann (<code>@STLChrisH</code>)</p>
 
-<div style="display: flex; gap: 20px; margin: 15px 0; font-size: 14px; color: #657786;">
-  <span><strong>62</strong> 点赞</span>
-  <span><strong>3</strong> 转发</span>
-  <span><strong>6</strong> 回复</span>
-  <span><strong>8,455</strong> 浏览</span>
-</div>
+<h3>📊 互动数据</h3>
+<ul>
+<li><strong>👍 点赞:</strong> 62</li>
+<li><strong>🔄 转发:</strong> 3</li>
+<li><strong>💬 回复:</strong> 6</li>
+<li><strong>👀 浏览:</strong> 8,455</li>
+</ul>
 
-<div style="margin-top: 15px;">
-  <a href="https://x.com/STLChrisH/status/1937221177337946466" target="_blank" style="color: #1da1f2; text-decoration: none; font-weight: 500;">
-    🔗 查看原推文
-  </a>
-  <span style="color: #657786; margin-left: 15px; font-size: 13px;">
-    发布时间: 2025/6/24 02:48:15
-  </span>
-</div>
-</div>
-
-</div>
-        ]]></content:encoded>
+<h3>🔗 链接信息</h3>
+<p><strong>原始链接:</strong> <a href="https://x.com/STLChrisH/status/1937221177337946466" target="_blank">查看原推文</a></p>
+<p><strong>发布时间:</strong> 2025/6/24 02:48:15</p>
+</div>]]></content:encoded>
             <author>STLChrisH@twitter.com (Chris Hoffmann)</author>
             <enclosure url="https://pbs.twimg.com/profile_images/1938061814056509440/otaUpVuH_normal.jpg" length="0" type="image/jpg"/>
         </item>
@@ -285,75 +246,39 @@ And that made us far more capable now.]]></description>
             <pubDate>Mon, 23 Jun 2025 18:24:52 GMT</pubDate>
             <description><![CDATA[#Internet traffic in #Iran has been recovering since Saturday, though recovery appears to be primarily on fixed infrastructure providers. 
 Fixed providers have seen strong traffic growth, while major mobile providers @www_mci_ir  and @irancell remain largely offline. https://t.co/mDHNBXUMAs]]></description>
-            <content:encoded><![CDATA[
-<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #333;">
-
-<blockquote style="margin: 0; padding: 15px; border-left: 4px solid #1da1f2; background: #f8f9fa; font-style: italic;">
-<a href="https://twitter.com/hashtag/Internet" target="_blank" style="color: #1da1f2; text-decoration: none;">#Internet</a> traffic in <a href="https://twitter.com/hashtag/Iran" target="_blank" style="color: #1da1f2; text-decoration: none;">#Iran</a> has been recovering since Saturday, though recovery appears to be primarily on fixed infrastructure providers. <br/>Fixed providers have seen strong traffic growth, while major mobile providers <a href="https://twitter.com/www_mci_ir" target="_blank" style="color: <a href="https://twitter.com/hashtag/1da1f2" target="_blank" style="color: #1da1f2; text-decoration: none;">#1da1f2</a>; text-decoration: none;">@www_mci_ir</a>  and <a href="https://twitter.com/irancell" target="_blank" style="color: <a href="https://twitter.com/hashtag/1da1f2" target="_blank" style="color: #1da1f2; text-decoration: none;">#1da1f2</a>; text-decoration: none;">@irancell</a> remain largely offline. <a href="https://t.co/mDHNBXUMAs" target="_blank" style="color: <a href="https://twitter.com/hashtag/1da1f2" target="_blank" style="color: #1da1f2; text-decoration: none;">#1da1f2</a>; text-decoration: none;">https://t.co/mDHNBXUMAs</a>
+            <content:encoded><![CDATA[<div class="tweet-content">
+<h2>📝 推文内容</h2>
+<blockquote>
+<p><code>#Internet</code> traffic in <code>#Iran</code> has been recovering since Saturday, though recovery appears to be primarily on fixed infrastructure providers. <br>Fixed providers have seen strong traffic growth, while major mobile providers <strong>@www_mci_ir</strong>  and <strong>@irancell</strong> remain largely offline. <a href="https://t.co/mDHNBXUMAs" target="_blank">https://t.co/mDHNBXUMAs</a></p>
 </blockquote>
 
 
-              <div style="margin: 15px 0; text-align: center;">
-                <img src="https://pbs.twimg.com/media/GuJe9ynWwAA9qeb.jpg"
-                     alt="Tweet Image"
-                     style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
-                <p style="font-size: 0.8em; color: #666; margin: 5px 0 0 0;">
-                  <a href="https://twitter.com/CloudflareRadar/status/1937215293622804760/photo/1" target="_blank" style="color: #1da1f2; text-decoration: none;">查看原图</a>
-                </p>
-              </div>
-              <div style="margin: 15px 0; text-align: center;">
-                <img src="https://pbs.twimg.com/media/GuJe9yqX0AAFxHg.jpg"
-                     alt="Tweet Image"
-                     style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
-                <p style="font-size: 0.8em; color: #666; margin: 5px 0 0 0;">
-                  <a href="https://twitter.com/CloudflareRadar/status/1937215293622804760/photo/1" target="_blank" style="color: #1da1f2; text-decoration: none;">查看原图</a>
-                </p>
-              </div>
-              <div style="margin: 15px 0; text-align: center;">
-                <img src="https://pbs.twimg.com/media/GuJe9yhXwAAHqOx.jpg"
-                     alt="Tweet Image"
-                     style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
-                <p style="font-size: 0.8em; color: #666; margin: 5px 0 0 0;">
-                  <a href="https://twitter.com/CloudflareRadar/status/1937215293622804760/photo/1" target="_blank" style="color: #1da1f2; text-decoration: none;">查看原图</a>
-                </p>
-              </div>
-              <div style="margin: 15px 0; text-align: center;">
-                <img src="https://pbs.twimg.com/media/GuJe9yyXgAA5z-e.jpg"
-                     alt="Tweet Image"
-                     style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
-                <p style="font-size: 0.8em; color: #666; margin: 5px 0 0 0;">
-                  <a href="https://twitter.com/CloudflareRadar/status/1937215293622804760/photo/1" target="_blank" style="color: #1da1f2; text-decoration: none;">查看原图</a>
-                </p>
-              </div>
+<h3>📷 媒体内容</h3>
+<p><strong>图片 1:</strong> <a href="https://twitter.com/CloudflareRadar/status/1937215293622804760/photo/1" target="_blank">查看原图</a></p>
+<p><img src="https://pbs.twimg.com/media/GuJe9ynWwAA9qeb.jpg" alt="推文图片 1" style="max-width: 100%; height: auto;" /></p>
+<p><strong>图片 2:</strong> <a href="https://twitter.com/CloudflareRadar/status/1937215293622804760/photo/1" target="_blank">查看原图</a></p>
+<p><img src="https://pbs.twimg.com/media/GuJe9yqX0AAFxHg.jpg" alt="推文图片 2" style="max-width: 100%; height: auto;" /></p>
+<p><strong>图片 3:</strong> <a href="https://twitter.com/CloudflareRadar/status/1937215293622804760/photo/1" target="_blank">查看原图</a></p>
+<p><img src="https://pbs.twimg.com/media/GuJe9yhXwAAHqOx.jpg" alt="推文图片 3" style="max-width: 100%; height: auto;" /></p>
+<p><strong>图片 4:</strong> <a href="https://twitter.com/CloudflareRadar/status/1937215293622804760/photo/1" target="_blank">查看原图</a></p>
+<p><img src="https://pbs.twimg.com/media/GuJe9yyXgAA5z-e.jpg" alt="推文图片 4" style="max-width: 100%; height: auto;" /></p>
 
-<div style="margin-top: 20px; padding: 15px; background: #f1f3f4; border-radius: 8px;">
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <img src="https://pbs.twimg.com/profile_images/1763583568888922112/tSuYI8FM_normal.png" alt="头像" style="width: 32px; height: 32px; border-radius: 50%; margin-right: 10px;"/>
-  <div>
-    <strong style="color: #14171a; font-size: 16px;">Cloudflare Radar</strong>
-    <div style="color: #657786; font-size: 14px;">@CloudflareRadar</div>
-  </div>
-</div>
 
-<div style="display: flex; gap: 20px; margin: 15px 0; font-size: 14px; color: #657786;">
-  <span><strong>71</strong> 点赞</span>
-  <span><strong>14</strong> 转发</span>
-  <span><strong>0</strong> 回复</span>
-  <span><strong>24,733</strong> 浏览</span>
-</div>
+<h3>👤 作者信息</h3>
+<p><strong>作者:</strong> Cloudflare Radar (<code>@CloudflareRadar</code>)</p>
 
-<div style="margin-top: 15px;">
-  <a href="https://x.com/CloudflareRadar/status/1937215293622804760" target="_blank" style="color: #1da1f2; text-decoration: none; font-weight: 500;">
-    🔗 查看原推文
-  </a>
-  <span style="color: #657786; margin-left: 15px; font-size: 13px;">
-    发布时间: 2025/6/24 02:24:52
-  </span>
-</div>
-</div>
+<h3>📊 互动数据</h3>
+<ul>
+<li><strong>👍 点赞:</strong> 71</li>
+<li><strong>🔄 转发:</strong> 14</li>
+<li><strong>💬 回复:</strong> 0</li>
+<li><strong>👀 浏览:</strong> 24,733</li>
+</ul>
 
-</div>
-        ]]></content:encoded>
+<h3>🔗 链接信息</h3>
+<p><strong>原始链接:</strong> <a href="https://x.com/CloudflareRadar/status/1937215293622804760" target="_blank">查看原推文</a></p>
+<p><strong>发布时间:</strong> 2025/6/24 02:24:52</p>
+</div>]]></content:encoded>
             <author>CloudflareRadar@twitter.com (Cloudflare Radar)</author>
             <enclosure url="https://pbs.twimg.com/profile_images/1763583568888922112/tSuYI8FM_normal.png" length="0" type="image/png"/>
         </item>
@@ -371,51 +296,36 @@ Here's our breakdown of all of the most important data on $HIMS -- credit card d
 PLUS - a new *preliminary* Q2 revenue prediction 
 
 (link below)]]></description>
-            <content:encoded><![CDATA[
-<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #333;">
-
-<blockquote style="margin: 0; padding: 15px; border-left: 4px solid #1da1f2; background: #f8f9fa; font-style: italic;">
-<p style="margin: 15px 0;">THE BIGGEST $HIMS DATA TRACKER WE&<a href="https://twitter.com/hashtag/039" target="_blank" style="color: #1da1f2; text-decoration: none;">#039</a>;VE PUBLISHED 🤯</p><p style="margin: 15px 0;">Here&<a href="https://twitter.com/hashtag/039" target="_blank" style="color: #1da1f2; text-decoration: none;">#039</a>;s our breakdown of all of the most important data on $HIMS -- credit card data, google trends, web traffic, app data, and more</p><p style="margin: 15px 0;">PLUS - a new *preliminary* Q2 revenue prediction </p><p style="margin: 15px 0;">(link below)</p>
+            <content:encoded><![CDATA[<div class="tweet-content">
+<h2>📝 推文内容</h2>
+<blockquote>
+<p>THE BIGGEST $HIMS DATA TRACKER WE'VE PUBLISHED 🤯</p>
+<p>Here's our breakdown of all of the most important data on $HIMS -- credit card data, google trends, web traffic, app data, and more</p>
+<p>PLUS - a new *preliminary* Q2 revenue prediction </p>
+<p>(link below)</p>
 </blockquote>
 
 
-              <div style="margin: 15px 0; text-align: center;">
-                <img src="https://pbs.twimg.com/media/Gt5Q4KoXYAAKSCx.jpg"
-                     alt="Tweet Image"
-                     style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
-                <p style="font-size: 0.8em; color: #666; margin: 5px 0 0 0;">
-                  <a href="https://twitter.com/himshouse/status/1936074738750697726/photo/1" target="_blank" style="color: #1da1f2; text-decoration: none;">查看原图</a>
-                </p>
-              </div>
+<h3>📷 媒体内容</h3>
+<p><strong>图片 1:</strong> <a href="https://twitter.com/himshouse/status/1936074738750697726/photo/1" target="_blank">查看原图</a></p>
+<p><img src="https://pbs.twimg.com/media/Gt5Q4KoXYAAKSCx.jpg" alt="推文图片 1" style="max-width: 100%; height: auto;" /></p>
 
-<div style="margin-top: 20px; padding: 15px; background: #f1f3f4; border-radius: 8px;">
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <img src="https://pbs.twimg.com/profile_images/1835729481220382720/9M1RWQUa_normal.jpg" alt="头像" style="width: 32px; height: 32px; border-radius: 50%; margin-right: 10px;"/>
-  <div>
-    <strong style="color: #14171a; font-size: 16px;">Hims House</strong>
-    <div style="color: #657786; font-size: 14px;">@himshouse</div>
-  </div>
-</div>
 
-<div style="display: flex; gap: 20px; margin: 15px 0; font-size: 14px; color: #657786;">
-  <span><strong>107</strong> 点赞</span>
-  <span><strong>7</strong> 转发</span>
-  <span><strong>5</strong> 回复</span>
-  <span><strong>13,015</strong> 浏览</span>
-</div>
+<h3>👤 作者信息</h3>
+<p><strong>作者:</strong> Hims House (<code>@himshouse</code>)</p>
 
-<div style="margin-top: 15px;">
-  <a href="https://x.com/himshouse/status/1936074738750697726" target="_blank" style="color: #1da1f2; text-decoration: none; font-weight: 500;">
-    🔗 查看原推文
-  </a>
-  <span style="color: #657786; margin-left: 15px; font-size: 13px;">
-    发布时间: 2025/6/20 22:52:42
-  </span>
-</div>
-</div>
+<h3>📊 互动数据</h3>
+<ul>
+<li><strong>👍 点赞:</strong> 107</li>
+<li><strong>🔄 转发:</strong> 7</li>
+<li><strong>💬 回复:</strong> 5</li>
+<li><strong>👀 浏览:</strong> 13,015</li>
+</ul>
 
-</div>
-        ]]></content:encoded>
+<h3>🔗 链接信息</h3>
+<p><strong>原始链接:</strong> <a href="https://x.com/himshouse/status/1936074738750697726" target="_blank">查看原推文</a></p>
+<p><strong>发布时间:</strong> 2025/6/20 22:52:42</p>
+</div>]]></content:encoded>
             <author>himshouse@twitter.com (Hims House)</author>
             <enclosure url="https://pbs.twimg.com/profile_images/1835729481220382720/9M1RWQUa_normal.jpg" length="0" type="image/jpg"/>
         </item>
@@ -433,43 +343,32 @@ For the first time, we’re adding weekly web traffic + app activity
 As always, we’ll break down credit card data, Google Trends, and Meta ads — and share a fresh Q2 revenue prediction
 
 👉 https://t.co/2GkN5tVx3K]]></description>
-            <content:encoded><![CDATA[
-<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #333;">
-
-<blockquote style="margin: 0; padding: 15px; border-left: 4px solid #1da1f2; background: #f8f9fa; font-style: italic;">
-<p style="margin: 15px 0;">🚨 TOMORROW - the $HIMS Data Tracker gets an upgrade</p><p style="margin: 15px 0;">For the first time, we’re adding weekly web traffic + app activity</p><p style="margin: 15px 0;">As always, we’ll break down credit card data, Google Trends, and Meta ads — and share a fresh Q2 revenue prediction</p><p style="margin: 15px 0;">👉 <a href="https://t.co/2GkN5tVx3K" target="_blank" style="color: <a href="https://twitter.com/hashtag/1da1f2" target="_blank" style="color: #1da1f2; text-decoration: none;">#1da1f2</a>; text-decoration: none;">https://t.co/2GkN5tVx3K</a></p>
+            <content:encoded><![CDATA[<div class="tweet-content">
+<h2>📝 推文内容</h2>
+<blockquote>
+<p>🚨 TOMORROW - the $HIMS Data Tracker gets an upgrade</p>
+<p>For the first time, we’re adding weekly web traffic + app activity</p>
+<p>As always, we’ll break down credit card data, Google Trends, and Meta ads — and share a fresh Q2 revenue prediction</p>
+<p>👉 <a href="https://t.co/2GkN5tVx3K" target="_blank">https://t.co/2GkN5tVx3K</a></p>
 </blockquote>
 
 
 
-<div style="margin-top: 20px; padding: 15px; background: #f1f3f4; border-radius: 8px;">
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <img src="https://pbs.twimg.com/profile_images/1835729481220382720/9M1RWQUa_normal.jpg" alt="头像" style="width: 32px; height: 32px; border-radius: 50%; margin-right: 10px;"/>
-  <div>
-    <strong style="color: #14171a; font-size: 16px;">Hims House</strong>
-    <div style="color: #657786; font-size: 14px;">@himshouse</div>
-  </div>
-</div>
+<h3>👤 作者信息</h3>
+<p><strong>作者:</strong> Hims House (<code>@himshouse</code>)</p>
 
-<div style="display: flex; gap: 20px; margin: 15px 0; font-size: 14px; color: #657786;">
-  <span><strong>94</strong> 点赞</span>
-  <span><strong>12</strong> 转发</span>
-  <span><strong>3</strong> 回复</span>
-  <span><strong>13,350</strong> 浏览</span>
-</div>
+<h3>📊 互动数据</h3>
+<ul>
+<li><strong>👍 点赞:</strong> 94</li>
+<li><strong>🔄 转发:</strong> 12</li>
+<li><strong>💬 回复:</strong> 3</li>
+<li><strong>👀 浏览:</strong> 13,350</li>
+</ul>
 
-<div style="margin-top: 15px;">
-  <a href="https://x.com/himshouse/status/1935755574408253753" target="_blank" style="color: #1da1f2; text-decoration: none; font-weight: 500;">
-    🔗 查看原推文
-  </a>
-  <span style="color: #657786; margin-left: 15px; font-size: 13px;">
-    发布时间: 2025/6/20 01:44:28
-  </span>
-</div>
-</div>
-
-</div>
-        ]]></content:encoded>
+<h3>🔗 链接信息</h3>
+<p><strong>原始链接:</strong> <a href="https://x.com/himshouse/status/1935755574408253753" target="_blank">查看原推文</a></p>
+<p><strong>发布时间:</strong> 2025/6/20 01:44:28</p>
+</div>]]></content:encoded>
             <author>himshouse@twitter.com (Hims House)</author>
             <enclosure url="https://pbs.twimg.com/profile_images/1835729481220382720/9M1RWQUa_normal.jpg" length="0" type="image/jpg"/>
         </item>
@@ -489,75 +388,41 @@ As always, we’ll break down credit card data, Google Trends, and Meta ads — 
 ✅ Real-time guild coordination and strategy.
 
 Next up, $RCADE TGE and @SkyborneLegacy Phoenix Flight launch. The best part is that we're just getting started.]]></description>
-            <content:encoded><![CDATA[
-<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #333;">
-
-<blockquote style="margin: 0; padding: 15px; border-left: 4px solid #1da1f2; background: #f8f9fa; font-style: italic;">
-<p style="margin: 15px 0;">Data talks: <a href="https://twitter.com/warofnova" target="_blank" style="color: <a href="https://twitter.com/hashtag/1da1f2" target="_blank" style="color: #1da1f2; text-decoration: none;">#1da1f2</a>; text-decoration: none;">@warofnova</a>, our first flagship title, crushed it with Season 1.</p><p style="margin: 15px 0;">✅ Consistent organic growth and retention.<br/>✅ $2M in-app revenue / 3,100+ paying users.<br/>✅ Average session length 30+ minutes.<br/>✅ Web2 ARPDAU $52 / Web3 ARPDAU $102.<br/>✅ Real-time guild coordination and strategy.</p><p style="margin: 15px 0;">Next up, $RCADE TGE and <a href="https://twitter.com/SkyborneLegacy" target="_blank" style="color: <a href="https://twitter.com/hashtag/1da1f2" target="_blank" style="color: #1da1f2; text-decoration: none;">#1da1f2</a>; text-decoration: none;">@SkyborneLegacy</a> Phoenix Flight launch. The best part is that we&<a href="https://twitter.com/hashtag/039" target="_blank" style="color: #1da1f2; text-decoration: none;">#039</a>;re just getting started.</p>
+            <content:encoded><![CDATA[<div class="tweet-content">
+<h2>📝 推文内容</h2>
+<blockquote>
+<p>Data talks: <strong>@warofnova</strong>, our first flagship title, crushed it with Season 1.</p>
+<p>✅ Consistent organic growth and retention.<br>✅ $2M in-app revenue / 3,100+ paying users.<br>✅ Average session length 30+ minutes.<br>✅ Web2 ARPDAU $52 / Web3 ARPDAU $102.<br>✅ Real-time guild coordination and strategy.</p>
+<p>Next up, $RCADE TGE and <strong>@SkyborneLegacy</strong> Phoenix Flight launch. The best part is that we're just getting started.</p>
 </blockquote>
 
 
-              <div style="margin: 15px 0; text-align: center;">
-                <img src="https://pbs.twimg.com/media/GtQkdAtWsAAMNqP.jpg"
-                     alt="Tweet Image"
-                     style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
-                <p style="font-size: 0.8em; color: #666; margin: 5px 0 0 0;">
-                  <a href="https://twitter.com/warofnova/status/1933211524111147241/photo/1" target="_blank" style="color: #1da1f2; text-decoration: none;">查看原图</a>
-                </p>
-              </div>
-              <div style="margin: 15px 0; text-align: center;">
-                <img src="https://pbs.twimg.com/media/GtQkdA8XwAAqyEk.jpg"
-                     alt="Tweet Image"
-                     style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
-                <p style="font-size: 0.8em; color: #666; margin: 5px 0 0 0;">
-                  <a href="https://twitter.com/warofnova/status/1933211524111147241/photo/1" target="_blank" style="color: #1da1f2; text-decoration: none;">查看原图</a>
-                </p>
-              </div>
-              <div style="margin: 15px 0; text-align: center;">
-                <img src="https://pbs.twimg.com/media/GtQkdEoWoAAX0kn.jpg"
-                     alt="Tweet Image"
-                     style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
-                <p style="font-size: 0.8em; color: #666; margin: 5px 0 0 0;">
-                  <a href="https://twitter.com/warofnova/status/1933211524111147241/photo/1" target="_blank" style="color: #1da1f2; text-decoration: none;">查看原图</a>
-                </p>
-              </div>
-              <div style="margin: 15px 0; text-align: center;">
-                <img src="https://pbs.twimg.com/media/GtQkdD7XgAAinGp.jpg"
-                     alt="Tweet Image"
-                     style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
-                <p style="font-size: 0.8em; color: #666; margin: 5px 0 0 0;">
-                  <a href="https://twitter.com/warofnova/status/1933211524111147241/photo/1" target="_blank" style="color: #1da1f2; text-decoration: none;">查看原图</a>
-                </p>
-              </div>
+<h3>📷 媒体内容</h3>
+<p><strong>图片 1:</strong> <a href="https://twitter.com/warofnova/status/1933211524111147241/photo/1" target="_blank">查看原图</a></p>
+<p><img src="https://pbs.twimg.com/media/GtQkdAtWsAAMNqP.jpg" alt="推文图片 1" style="max-width: 100%; height: auto;" /></p>
+<p><strong>图片 2:</strong> <a href="https://twitter.com/warofnova/status/1933211524111147241/photo/1" target="_blank">查看原图</a></p>
+<p><img src="https://pbs.twimg.com/media/GtQkdA8XwAAqyEk.jpg" alt="推文图片 2" style="max-width: 100%; height: auto;" /></p>
+<p><strong>图片 3:</strong> <a href="https://twitter.com/warofnova/status/1933211524111147241/photo/1" target="_blank">查看原图</a></p>
+<p><img src="https://pbs.twimg.com/media/GtQkdEoWoAAX0kn.jpg" alt="推文图片 3" style="max-width: 100%; height: auto;" /></p>
+<p><strong>图片 4:</strong> <a href="https://twitter.com/warofnova/status/1933211524111147241/photo/1" target="_blank">查看原图</a></p>
+<p><img src="https://pbs.twimg.com/media/GtQkdD7XgAAinGp.jpg" alt="推文图片 4" style="max-width: 100%; height: auto;" /></p>
 
-<div style="margin-top: 20px; padding: 15px; background: #f1f3f4; border-radius: 8px;">
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <img src="https://pbs.twimg.com/profile_images/1842296184968216577/T8dTCWad_normal.jpg" alt="头像" style="width: 32px; height: 32px; border-radius: 50%; margin-right: 10px;"/>
-  <div>
-    <strong style="color: #14171a; font-size: 16px;">War of Nova</strong>
-    <div style="color: #657786; font-size: 14px;">@warofnova</div>
-  </div>
-</div>
 
-<div style="display: flex; gap: 20px; margin: 15px 0; font-size: 14px; color: #657786;">
-  <span><strong>527</strong> 点赞</span>
-  <span><strong>252</strong> 转发</span>
-  <span><strong>59</strong> 回复</span>
-  <span><strong>50,533</strong> 浏览</span>
-</div>
+<h3>👤 作者信息</h3>
+<p><strong>作者:</strong> War of Nova (<code>@warofnova</code>)</p>
 
-<div style="margin-top: 15px;">
-  <a href="https://x.com/warofnova/status/1933211524111147241" target="_blank" style="color: #1da1f2; text-decoration: none; font-weight: 500;">
-    🔗 查看原推文
-  </a>
-  <span style="color: #657786; margin-left: 15px; font-size: 13px;">
-    发布时间: 2025/6/13 01:15:19
-  </span>
-</div>
-</div>
+<h3>📊 互动数据</h3>
+<ul>
+<li><strong>👍 点赞:</strong> 527</li>
+<li><strong>🔄 转发:</strong> 252</li>
+<li><strong>💬 回复:</strong> 59</li>
+<li><strong>👀 浏览:</strong> 50,533</li>
+</ul>
 
-</div>
-        ]]></content:encoded>
+<h3>🔗 链接信息</h3>
+<p><strong>原始链接:</strong> <a href="https://x.com/warofnova/status/1933211524111147241" target="_blank">查看原推文</a></p>
+<p><strong>发布时间:</strong> 2025/6/13 01:15:19</p>
+</div>]]></content:encoded>
             <author>warofnova@twitter.com (War of Nova)</author>
             <enclosure url="https://pbs.twimg.com/profile_images/1842296184968216577/T8dTCWad_normal.jpg" length="0" type="image/jpg"/>
         </item>
